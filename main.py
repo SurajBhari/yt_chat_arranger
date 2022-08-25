@@ -1,6 +1,7 @@
-from chat_downloader import ChatDownloader
+from chat_downloader import ChatDownloader, errors
 import scrapetube
 
+from os import listdir
 
 channel_id = 'UCIzzPhdRf8Olo3WjiexcZSw'
 #channel_id = str(input("Enter Channel ID"))
@@ -10,8 +11,14 @@ videos = scrapetube.get_channel(channel_id)
 
 for video in videos:
     id = video['videoId']
+    if id+".txt" in listdir("./chats_storage"):
+        print(f"Skipping {id} cuz it already exists")
+        continue
     print(f"Looking at video id - {video['videoId']}")
-    chat = ChatDownloader().get_chat(video['videoId'])
+    try:
+        chat = ChatDownloader().get_chat(video['videoId'])
+    except errors.NoChatReplay:
+        continue
     string = ""
     for message in chat:
         try:
