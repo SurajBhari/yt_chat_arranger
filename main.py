@@ -10,7 +10,7 @@ channel_id = 'UCIzzPhdRf8Olo3WjiexcZSw'
 
 
 videos = scrapetube.get_channel(channel_id)
-
+"""
 vids = []
 for video in videos:
     vids.append(video)
@@ -63,7 +63,7 @@ for video in vids:
     
 
 #Now lets get all of the chats in one dictionary to save some time and all
-
+"""
 chats = []
 
 for filename in listdir("./json_storage"):
@@ -71,7 +71,27 @@ for filename in listdir("./json_storage"):
         data = json.load(open("./json_storage/"+filename, 'r'))
         chats.extend(data['messages'])
 
-print(len(chats))
+print(len(chats) + " Chats were made")
 
+person_wise = {}
+for chat in chats:
+    try:
+        person_wise[chat['author']['id']]
+    except KeyError:
+        person_wise[chat['author']['id']] = {'name': chat['author']['name'], 'count': 0}
+    
+    person_wise[chat['author']['id']]['count'] += 1
+    person_wise[chat['author']['id']]['name'] = chat['author']['name']
+
+
+a = dict(sorted(person_wise.items(), key=lambda item: item[1]["count"]))
+
+b = {}
+for key in reversed(a):
+    b[key] = a[key]
+
+
+for item in b:
+    print(f"{b[item]['name']} | {b[item]['count']}", file=open("person_wise.txt", "a+", encoding='utf-8'))
 
 
