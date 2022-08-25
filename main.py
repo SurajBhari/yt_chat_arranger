@@ -13,7 +13,7 @@ videos = scrapetube.get_channel(channel_id)
 vids = []
 for video in videos:
     vids.append(video)
-    print("{} - {}".format(video['title'], video['url']))
+    print("{}".format(video['title']['runs'][0]['text']))
 
 for video in vids:
     id = video['videoId']
@@ -21,12 +21,13 @@ for video in vids:
         if id+'.json' in listdir("./json_storage"):
             print(f"Skipping {id} cuz it already exists")
             continue
-    
-    print(f"Looking at video id - {video['videoId']}")
-    try:
-        chat = ChatDownloader().get_chat(video['videoId'])
-    except errors.NoChatReplay:
-        continue
+    if id + '.json' in listdir("./json_storage"):
+        chat = json.load(open("./json_storage/"+id+'.json', 'r'))['messages']
+    else:
+        try:
+            chat = ChatDownloader().get_chat(video['videoId'])
+        except errors.NoChatReplay:
+            continue
     string = ""
     messages = {'messages':[]}
     for message in chat:
