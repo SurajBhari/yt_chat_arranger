@@ -4,6 +4,7 @@ import scrapetube
 from os import listdir
 import json
 
+errorss = ''
 channel_id = 'UCIzzPhdRf8Olo3WjiexcZSw'
 #channel_id = str(input("Enter Channel ID"))
 
@@ -21,8 +22,17 @@ for video in vids:
         if id+'.json' in listdir("./json_storage"):
             print(f"Skipping {id} cuz it already exists")
             continue
+    
+    try:
+        if 'watching' in video['viewCountText']['runs'][1]['text']:
+            print("Skipping {id} cuz it's currently getting streamed")
+            continue
+    except KeyError:
+        pass
+
     if id + '.json' in listdir("./json_storage"):
         chat = json.load(open("./json_storage/"+id+'.json', 'r'))['messages']
+        print("Json Format for the video already exists. Not downloading")
     else:
         try:
             chat = ChatDownloader().get_chat(video['videoId'])
@@ -30,13 +40,20 @@ for video in vids:
             continue
     string = ""
     messages = {'messages':[]}
-    for message in chat:
-        try:
-            print(message['message'])
-            string += f"{message['timestamp']} | {message['time_in_seconds']} | {message['time_text']} | {message['author']['name']} | {message['message']}\n"
-            messages['messages'].append(message)
-        except Exception as e:
-            print(e)
+    try: 
+        for message in chat:
+            try:
+                print(message['message'])
+                string += f"{message['timestamp']} | {message['time_in_seconds']} | {message['time_text']} | {message['author']['name']} | {message['message']}\n"
+                messages['messages'].append(message)
+            except Exception as e:
+                print(e)
+                errorss += f"{id} | {e}\n"
+    except Exception as e:
+        errorss += f"{id} | {e}\n"
+        print(errorss)
+        continue
+
 
     with open(f'chats_storage/{id}.txt', "w+", encoding='utf-8') as f:
         f.write(string)
@@ -44,4 +61,17 @@ for video in vids:
     with open(f'json_storage/{id}.json', "w+", encoding='utf-8') as f:
         json.dump(messages, f, indent=4)
     
-        
+
+#Now lets get all of the chats in one dictionary to save some time and all
+
+chats = []
+
+for filename in listdir("./json_storage"):
+    if filename.endswith(".json"):
+        data = json.load(open("./json_storage/"+filename, 'r'))
+        chats.extend(data['messages'])
+
+print(len(chats))
+
+
+
