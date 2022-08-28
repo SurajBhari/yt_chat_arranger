@@ -84,12 +84,13 @@ for chat in chats:
 
 
 a = dict(sorted(person_wise.items(), key=lambda item: item[1]["count"]))
-
 b = {}
 for key in reversed(a):
     b[key] = a[key]
 
-
+string_to_write = ""
 for item in b:
-    print(f"{b[item]['name']} | {b[item]['count']}", file=open("person_wise.txt", "a+", encoding='utf-8'))
+    string_to_write += f"{item} | {b[item]['count']} | {b[item]['name']}\n"
 
+with open("person_wise.txt", "w+", encoding='utf-8') as f:
+    f.write(string_to_write)
