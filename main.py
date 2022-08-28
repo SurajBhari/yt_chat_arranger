@@ -5,12 +5,11 @@ from os import listdir
 import json
 
 errorss = ''
-channel_id = 'UCIzzPhdRf8Olo3WjiexcZSw'
-#channel_id = str(input("Enter Channel ID"))
+channel_id = str(input("Enter Channel ID"))
 
 
 videos = scrapetube.get_channel(channel_id)
-"""
+
 vids = []
 for video in videos:
     vids.append(video)
@@ -63,7 +62,7 @@ for video in vids:
     
 
 #Now lets get all of the chats in one dictionary to save some time and all
-"""
+
 chats = []
 
 for filename in listdir("./json_storage"):
@@ -78,7 +77,7 @@ for chat in chats:
     try:
         person_wise[chat['author']['id']]
     except KeyError:
-        person_wise[chat['author']['id']] = {'name': chat['author']['name'], 'count': 0}
+        person_wise[chat['author']['id']] = {'name': chat['author']['name'], 'count': 0, 'messages':[]}
     
     person_wise[chat['author']['id']]['count'] += 1
     person_wise[chat['author']['id']]['name'] = chat['author']['name']
@@ -93,5 +92,4 @@ for key in reversed(a):
 
 for item in b:
     print(f"{b[item]['name']} | {b[item]['count']}", file=open("person_wise.txt", "a+", encoding='utf-8'))
-
 
