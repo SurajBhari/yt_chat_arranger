@@ -103,7 +103,7 @@ for person in b:
     try:
         with open(f"person_wise/{b[person]['name']}.txt", "w+", encoding="utf-8") as f:
             f.write("\n".join(b[person]['messages']))
-    except FileNotFoundError:
-        print("fuck no idiot have shitty name")
+    except Exception as e:
+        print(f"fuck no weirdo name {e}")
 with open("person_wise.txt", "w+", encoding='utf-8') as f:
     f.write(string_to_write)
