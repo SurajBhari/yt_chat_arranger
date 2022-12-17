@@ -2,3 +2,4 @@ chats_ss/*
 chats_storage/*
 json_storage/*
 person_wise.txt
+__pycache__/make_image.cpython-310.pyc
