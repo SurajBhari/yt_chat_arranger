@@ -76,7 +76,7 @@ for filename in listdir("./json_storage"):
         data = json.load(open("./json_storage/"+filename, 'r'))
         chats.extend(data['messages'])
 
-print(len(chats) + " Chats were made")
+print(str(len(chats)) + " Chats were made")
 
 person_wise = {}
 for chat in chats:
@@ -87,7 +87,7 @@ for chat in chats:
     
     person_wise[chat['author']['id']]['count'] += 1
     person_wise[chat['author']['id']]['name'] = chat['author']['name']
-    person_wise[chat['author']['id']]['messages'].append(f"{message['timestamp']} | {message['time_in_seconds']} | {message['time_text']} | {message['author']['name']} | {message['message']}")
+    person_wise[chat['author']['id']]['messages'].append(f"{chat['timestamp']} | {chat['time_in_seconds']} | {chat['time_text']} | {chat['author']['name']} | {chat['message']}")
 
 
 a = dict(sorted(person_wise.items(), key=lambda item: item[1]["count"]))
@@ -100,8 +100,10 @@ for item in b:
     string_to_write += f"{item} | {b[item]['count']} | {b[item]['name']}\n"
 
 for person in b:
-    with open(f"person_wise/{person['name'].txt}", "w+", encoding="utf-8") as f:
-        f.write("\n".join(person['messages']))
-
+    try:
+        with open(f"person_wise/{b[person]['name']}.txt", "w+", encoding="utf-8") as f:
+            f.write("\n".join(b[person]['messages']))
+    except FileNotFoundError:
+        print("fuck no idiot have shitty name")
 with open("person_wise.txt", "w+", encoding='utf-8') as f:
     f.write(string_to_write)
