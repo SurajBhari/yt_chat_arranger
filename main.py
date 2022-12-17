@@ -8,12 +8,18 @@ errorss = ''
 channel_id = str(input("Enter Channel ID"))
 
 
-videos = scrapetube.get_channel(channel_id)
+videos = scrapetube.get_channel(channel_id, content_type="streams")
 
+titles = []
 vids = []
 for video in videos:
     vids.append(video)
-    print("{}".format(video['title']['runs'][0]['text']))
+    title = video['title']['runs'][0]['text']
+    print(title)
+    titles.append(title)
+
+with open("titles.txt", "w+", encoding="utf-8") as f:
+    f.write("\n".join(titles))
 
 for video in vids:
     id = video['videoId']
@@ -81,6 +87,7 @@ for chat in chats:
     
     person_wise[chat['author']['id']]['count'] += 1
     person_wise[chat['author']['id']]['name'] = chat['author']['name']
+    person_wise[chat['author']['id']]['messages'].append(f"{message['timestamp']} | {message['time_in_seconds']} | {message['time_text']} | {message['author']['name']} | {message['message']}")
 
 
 a = dict(sorted(person_wise.items(), key=lambda item: item[1]["count"]))
@@ -91,6 +98,10 @@ for key in reversed(a):
 string_to_write = ""
 for item in b:
     string_to_write += f"{item} | {b[item]['count']} | {b[item]['name']}\n"
+
+for person in b:
+    with open(f"person_wise/{person['name'].txt}", "w+", encoding="utf-8") as f:
+        f.write("\n".join(person['messages']))
 
 with open("person_wise.txt", "w+", encoding='utf-8') as f:
     f.write(string_to_write)
