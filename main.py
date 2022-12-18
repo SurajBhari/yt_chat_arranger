@@ -24,6 +24,7 @@ for video in videos:
 with open("titles.txt", "w+", encoding="utf-8") as f:
     f.write("\n".join(titles))
 
+total_chats = []
 for video in vids[::-1]:
     id = video['videoId']
     print(f"processing a stream that was {video['publishedTimeText']['simpleText']}")
@@ -55,6 +56,7 @@ for video in vids[::-1]:
     messages = {'messages':[]}
     try: 
         for message in chat:
+            total_chats.append(message)
             # since we reversed the order of videos processed we can do in check
             if message['author']['id'] not in first_ever_message.keys():
                 first_ever_message[message['author']['id']] = {
@@ -86,25 +88,16 @@ for video in vids[::-1]:
 
 #Now lets get all of the chats in one dictionary to save some time and all
 
-chats = []
 
-for filename in listdir("./json_storage"):
-    if filename.endswith(".json"):
-        try:
-            data = json.load(open("./json_storage/"+filename, 'r', encoding="utf-8"))
-        except json.decoder.JSONDecodeError:
-            print("error decoding the mssage. so getting out of here.")
-            continue
-        chats.extend(data['messages'])
 
 with open("first_ever.json", "w+", encoding="utf-8") as f:
     json.dump(first_ever_message,f, indent=4)
     print("made first_ever json")
 
-print(str(len(chats)) + " Chats were made")
+print(str(len(total_chats)) + " Chats were made")
 
 person_wise = {}
-for chat in chats:
+for chat in total_chats:
     try:
         person_wise[chat['author']['id']]
     except KeyError:
@@ -124,7 +117,7 @@ string_to_write = ""
 for item in b:
     string_to_write += f"{item} | {b[item]['count']} | {b[item]['name']}\n"
 
-for person in b:
+for person in person_wise:
     try:
         with open(f"person_wise/{b[person]['name']}-{person}.txt", "w+", encoding="utf-8") as f:
             f.write("\n".join(b[person]['messages']))
