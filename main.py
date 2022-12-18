@@ -12,21 +12,26 @@ videos = scrapetube.get_channel(channel_id, content_type="streams")
 
 titles = []
 vids = []
+first_ever_message = {} #
+count = 1
 for video in videos:
     vids.append(video)
     title = video['title']['runs'][0]['text']
-    print(title)
     titles.append(title)
+    print(count, end=" ")
+    count += 1
 
 with open("titles.txt", "w+", encoding="utf-8") as f:
     f.write("\n".join(titles))
 
-for video in vids:
+for video in vids[::-1]:
     id = video['videoId']
+    print(f"processing a stream that was {video['publishedTimeText']['simpleText']}")
+    """
     if id+".txt" in listdir("./chats_storage"):
         if id+'.json' in listdir("./json_storage"):
             print(f"Skipping {id} cuz it already exists")
-            continue
+            continue"""
     
     try:
         if 'watching' in video['viewCountText']['runs'][1]['text']:
@@ -34,10 +39,13 @@ for video in vids:
             continue
     except KeyError:
         pass
-
     if id + '.json' in listdir("./json_storage"):
-        chat = json.load(open("./json_storage/"+id+'.json', 'r'))['messages']
-        print("Json Format for the video already exists. Not downloading")
+        try:
+            chat = json.load(open("./json_storage/"+id+'.json', 'r', encoding="utf-8"))['messages']
+            print("loaded from local storage")
+        except json.decoder.JSONDecodeError:
+            print("error decoding the mssage. so getting out of here.")
+            continue
     else:
         try:
             chat = ChatDownloader().get_chat(video['videoId'])
@@ -47,8 +55,17 @@ for video in vids:
     messages = {'messages':[]}
     try: 
         for message in chat:
+            # since we reversed the order of videos processed we can do in check
+            if message['author']['id'] not in first_ever_message.keys():
+                first_ever_message[message['author']['id']] = {
+                    "name": message['author']['name'], 
+                    "video_id": id, 
+                    "timestamp": message['time_in_seconds'], 
+                    "link" : f"https://youtu.be/{id}?t={int(message['time_in_seconds'])}", # we learn a lot of stuff. one of those is yt don't like float 
+                    "message": message["message"],
+                    "ago": video['publishedTimeText']['simpleText']
+                }
             try:
-                print(message['message'])
                 string += f"{message['timestamp']} | {message['time_in_seconds']} | {message['time_text']} | {message['author']['name']} | {message['message']}\n"
                 messages['messages'].append(message)
             except Exception as e:
@@ -73,8 +90,16 @@ chats = []
 
 for filename in listdir("./json_storage"):
     if filename.endswith(".json"):
-        data = json.load(open("./json_storage/"+filename, 'r'))
+        try:
+            data = json.load(open("./json_storage/"+filename, 'r', encoding="utf-8"))
+        except json.decoder.JSONDecodeError:
+            print("error decoding the mssage. so getting out of here.")
+            continue
         chats.extend(data['messages'])
+
+with open("first_ever.json", "w+", encoding="utf-8") as f:
+    json.dump(first_ever_message,f, indent=4)
+    print("made first_ever json")
 
 print(str(len(chats)) + " Chats were made")
 
@@ -101,7 +126,7 @@ for item in b:
 
 for person in b:
     try:
-        with open(f"person_wise/{b[person]['name']}.txt", "w+", encoding="utf-8") as f:
+        with open(f"person_wise/{b[person]['name']}-{person}.txt", "w+", encoding="utf-8") as f:
             f.write("\n".join(b[person]['messages']))
     except Exception as e:
         print(f"fuck no weirdo name {e}")
