@@ -1,6 +1,7 @@
 from chat_downloader import ChatDownloader, errors
 import scrapetube
 
+from datetime import datetime
 from os import listdir
 import json
 
@@ -54,29 +55,26 @@ for video in vids[::-1]:
             continue
     string = ""
     messages = {'messages':[]}
-    try: 
-        for message in chat:
-            total_chats.append(message)
-            # since we reversed the order of videos processed we can do in check
-            if message['author']['id'] not in first_ever_message.keys():
-                first_ever_message[message['author']['id']] = {
-                    "name": message['author']['name'], 
-                    "video_id": id, 
-                    "timestamp": message['time_in_seconds'], 
-                    "link" : f"https://youtu.be/{id}?t={int(message['time_in_seconds'])}", # we learn a lot of stuff. one of those is yt don't like float 
-                    "message": message["message"],
-                    "ago": video['publishedTimeText']['simpleText']
-                }
-            try:
-                string += f"{message['timestamp']} | {message['time_in_seconds']} | {message['time_text']} | {message['author']['name']} | {message['message']}\n"
-                messages['messages'].append(message)
-            except Exception as e:
-                print(e)
-                errorss += f"{id} | {e}\n"
-    except Exception as e:
-        errorss += f"{id} | {e}\n"
-        print(errorss)
-        continue
+    for message in chat:
+        message["vid"] = id
+        total_chats.append(message)
+        # since we reversed the order of videos processed we can do in check
+        if message['author']['id'] not in first_ever_message.keys():
+            first_ever_message[message['author']['id']] = {
+                "name": message['author']['name'], 
+                "video_id": id, 
+                "timestamp": message['time_in_seconds'], 
+                "link" : f"https://youtu.be/{id}?t={int(message['time_in_seconds'])}", # we learn a lot of stuff. one of those is yt don't like float 
+                "message": message["message"],
+                "ago": video['publishedTimeText']['simpleText']
+            }
+        time = datetime.fromtimestamp(int(message["timestamp"])/1000000).strftime("%d/%m/%Y, %H:%M:%S")
+        try:
+            string += f"{time} | {message['time_in_seconds']} | https://youtu.be/{id}?t={int(message['time_in_seconds'])} | {message['time_text']} | {message['author']['name']} | {message['message']}\n"
+            messages['messages'].append(message)
+        except Exception as e:
+            print(e)
+            errorss += f"{id} | {e}\n"
 
 
     with open(f'chats_storage/{id}.txt', "w+", encoding='utf-8') as f:
@@ -105,7 +103,8 @@ for chat in total_chats:
     
     person_wise[chat['author']['id']]['count'] += 1
     person_wise[chat['author']['id']]['name'] = chat['author']['name']
-    person_wise[chat['author']['id']]['messages'].append(f"{chat['timestamp']} | {chat['time_in_seconds']} | {chat['time_text']} | {chat['author']['name']} | {chat['message']}")
+    time = datetime.fromtimestamp(int(message["timestamp"])/1000000).strftime("%d/%m/%Y, %H:%M:%S")
+    person_wise[chat['author']['id']]['messages'].append(f"{time} | https://youtu.be/{message['vid']}?t={int(chat['time_in_seconds'])} | {chat['time_text']} | {chat['author']['name']} | {chat['message']}")
 
 
 a = dict(sorted(person_wise.items(), key=lambda item: item[1]["count"]))
