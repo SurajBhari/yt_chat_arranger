@@ -4,9 +4,12 @@ import scrapetube
 from datetime import datetime
 from os import listdir
 import json
+from sys import argv
 
 errorss = ''
-channel_id = str(input("Enter Channel ID"))
+if not argv:
+    channel_id = str(input("Enter Channel ID"))
+channel_id = argv[0]
 
 
 videos = scrapetube.get_channel(channel_id, content_type="streams")
