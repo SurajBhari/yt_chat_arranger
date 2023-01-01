@@ -2,7 +2,7 @@ from chat_downloader import ChatDownloader, errors
 import scrapetube
 
 from datetime import datetime
-from os import listdir
+from os import listdir, mkdir
 import json
 from sys import argv
 
@@ -25,18 +25,16 @@ for video in videos:
     print(count, end=" ")
     count += 1
 
-with open("titles.txt", "w+", encoding="utf-8") as f:
+if channel_id not in listdir("."):
+    mkdir(channel_id)
+
+with open(f"{channel_id}/titles.txt", "w+", encoding="utf-8") as f:
     f.write("\n".join(titles))
 
 total_chats = []
 for video in vids[::-1]:
     id = video['videoId']
     print(f"processing a stream that was {video['publishedTimeText']['simpleText']}")
-    """
-    if id+".txt" in listdir("./chats_storage"):
-        if id+'.json' in listdir("./json_storage"):
-            print(f"Skipping {id} cuz it already exists")
-            continue"""
     
     try:
         if 'watching' in video['viewCountText']['runs'][1]['text']:
@@ -44,9 +42,9 @@ for video in vids[::-1]:
             continue
     except KeyError:
         pass
-    if id + '.json' in listdir("./json_storage"):
+    if id + '.json' in listdir(f"./{channel_id}/json_storage"):
         try:
-            chat = json.load(open("./json_storage/"+id+'.json', 'r', encoding="utf-8"))['messages']
+            chat = json.load(open(f"./{channel_id}/json_storage/"+id+'.json', 'r', encoding="utf-8"))['messages']
             print("loaded from local storage")
         except json.decoder.JSONDecodeError:
             print("error decoding the mssage. so getting out of here.")
@@ -80,10 +78,10 @@ for video in vids[::-1]:
             errorss += f"{id} | {e}\n"
 
 
-    with open(f'chats_storage/{id}.txt', "w+", encoding='utf-8') as f:
+    with open(f'./{channel_id}/chats_storage/{id}.txt', "w+", encoding='utf-8') as f:
         f.write(string)
     
-    with open(f'json_storage/{id}.json', "w+", encoding='utf-8') as f:
+    with open(f'./{channel_id}/json_storage/{id}.json', "w+", encoding='utf-8') as f:
         json.dump(messages, f, indent=4)
     
 
@@ -91,7 +89,7 @@ for video in vids[::-1]:
 
 
 
-with open("first_ever.json", "w+", encoding="utf-8") as f:
+with open(f"./{channel_id}/first_ever.json", "w+", encoding="utf-8") as f:
     json.dump(first_ever_message,f, indent=4)
     print("made first_ever json")
 
@@ -121,9 +119,9 @@ for item in b:
 
 for person in person_wise:
     try:
-        with open(f"person_wise/{person}.txt", "w+", encoding="utf-8") as f:
+        with open(f"./{channel_id}/person_wise/{person}.txt", "w+", encoding="utf-8") as f:
             f.write("\n".join(b[person]['messages']))
     except Exception as e:
         print(f"fuck no weirdo name {e}")
-with open("person_wise.txt", "w+", encoding='utf-8') as f:
+with open(f"./{channel_id}/person_wise.txt", "w+", encoding='utf-8') as f:
     f.write(string_to_write)
