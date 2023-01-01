@@ -9,7 +9,8 @@ from sys import argv
 errorss = ''
 if not argv:
     channel_id = str(input("Enter Channel ID"))
-channel_id = argv[0]
+channel_id = argv[1]
+print(channel_id)
 
 
 videos = scrapetube.get_channel(channel_id, content_type="streams")
@@ -27,6 +28,10 @@ for video in videos:
 
 if channel_id not in listdir("."):
     mkdir(channel_id)
+    mkdir(f"{channel_id}/json_storage")
+    mkdir(f"{channel_id}/chats_storage")
+    mkdir(f"{channel_id}/person_wise")
+    
 
 with open(f"{channel_id}/titles.txt", "w+", encoding="utf-8") as f:
     f.write("\n".join(titles))
