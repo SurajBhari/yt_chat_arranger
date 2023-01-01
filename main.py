@@ -118,7 +118,7 @@ for item in b:
 
 for person in person_wise:
     try:
-        with open(f"person_wise/{b[person]['name']}-{person}.txt", "w+", encoding="utf-8") as f:
+        with open(f"person_wise/{person}.txt", "w+", encoding="utf-8") as f:
             f.write("\n".join(b[person]['messages']))
     except Exception as e:
         print(f"fuck no weirdo name {e}")
