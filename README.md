@@ -9,10 +9,10 @@ Depends on how big your channel is. this can take some time.
 Extra Feature. 
 you can host this and use bots like NightBot to get some data out of it. 
 How ? 
-you modify `api.py` file to change the "secret_key". make sure you don't leak it to anyone.
-lets say secret_key is pass123
 next step add a command to nightbot
-`!addcom !stats $(urlfetch http://{where_you_hosting_it}/stats/$(channelid)/$(userid))`
+`!addcom !stats $(urlfetch http://{where_you_hosting_it}/stats/)`
 
 Since this is now something that you may want to update now and then 
 Add a cron job 
+`0 0 * * *  cd /root/yt_chat_arranger && python3 main.py {channel_id_here}`
+this run at every 12 in night.
