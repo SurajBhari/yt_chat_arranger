@@ -1,0 +1,3152 @@
+{
+    "messages": [
+        {
+            "time_in_seconds": 84.743,
+            "action_type": "add_chat_item",
+            "message": "StreamElements bot running :robot:",
+            "emotes": [
+                {
+                    "id": "\ud83e\udd16",
+                    "name": ":robot:",
+                    "shortcuts": [
+                        ":robot:",
+                        ":robot_face:"
+                    ],
+                    "search_terms": [
+                        "robot",
+                        "face"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f916.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f916.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "ChwKGkNMaW0zcWFLMk80Q0ZmR0F3UW9kUGx3Rm1R",
+            "timestamp": 1612711445631844,
+            "time_text": "1:24",
+            "author": {
+                "name": "StreamElements",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/x8sAVmPAwu6AZcosGKgh4JfEoSUwJ6cILYCtEbKMOpmuJxsoD0XS0V6nn7COTDUCm7fDq2Cr",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/x8sAVmPAwu6AZcosGKgh4JfEoSUwJ6cILYCtEbKMOpmuJxsoD0XS0V6nn7COTDUCm7fDq2Cr=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/x8sAVmPAwu6AZcosGKgh4JfEoSUwJ6cILYCtEbKMOpmuJxsoD0XS0V6nn7COTDUCm7fDq2Cr=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Verified",
+                        "icon_name": "verified"
+                    },
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCjerlCIbLPQwSnYlClkjDXg"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 214.971,
+            "action_type": "add_chat_item",
+            "message": "I am having dinner can't type you stream",
+            "message_id": "CkUKGkNPcTc0dVNLMk80Q0ZYMGVyUVlkX2ZvTGNnEidDTS10aGR1SzJPNENGVWlhandvZGhRd0FXZzE2MTI3MTE1NzU3NTg%3D",
+            "timestamp": 1612711575723526,
+            "time_text": "3:34",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 1415.948,
+            "action_type": "add_chat_item",
+            "message": "had dinner",
+            "message_id": "CkUKGkNPaklyYUdQMk80Q0ZWWV9yUVlkY01JS2R3EidDTS10aGR1SzJPNENGVWlhandvZGhRd0FXZzE2MTI3MTI3NzY1NDE%3D",
+            "timestamp": 1612712776524963,
+            "time_text": "23:35",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 1422.979,
+            "action_type": "add_chat_item",
+            "message": ":chillwcat:",
+            "emotes": [
+                {
+                    "id": "UCkszU2WH9gy1mb0dV-11UJg/vQF1XpyaG_XG8gTs77bACQ",
+                    "name": ":chillwcat:",
+                    "shortcuts": [
+                        ":chillwcat:"
+                    ],
+                    "search_terms": [
+                        "chillwcat"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://yt3.ggpht.com/ZN5h05TnuFQmbzgGvIfk3bgrV-_Wp8bAbecOqw92s2isI6GLHbYjTyZjcqf0rKQ5t4jBtlumzw",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://yt3.ggpht.com/ZN5h05TnuFQmbzgGvIfk3bgrV-_Wp8bAbecOqw92s2isI6GLHbYjTyZjcqf0rKQ5t4jBtlumzw=w24-h24-c-k-nd",
+                            "width": 24,
+                            "height": 24,
+                            "id": "24x24"
+                        },
+                        {
+                            "url": "https://yt3.ggpht.com/ZN5h05TnuFQmbzgGvIfk3bgrV-_Wp8bAbecOqw92s2isI6GLHbYjTyZjcqf0rKQ5t4jBtlumzw=w48-h48-c-k-nd",
+                            "width": 48,
+                            "height": 48,
+                            "id": "48x48"
+                        }
+                    ],
+                    "is_custom_emoji": true
+                }
+            ],
+            "message_id": "CkUKGkNLZlU0cVNQMk80Q0Zld3JyUVlkWUdjSTZnEidDTS10aGR1SzJPNENGVWlhandvZGhRd0FXZzE2MTI3MTI3ODM3MTQ%3D",
+            "timestamp": 1612712783686241,
+            "time_text": "23:42",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 1429.616,
+            "action_type": "add_chat_item",
+            "message": "ohhhhhhhhh",
+            "message_id": "CkUKGkNQQ084NmVQMk80Q0ZjOFFyUVlkQ2VnSTBnEidDTS10aGR1SzJPNENGVWlhandvZGhRd0FXZzE2MTI3MTI3OTAyODM%3D",
+            "timestamp": 1612712790247301,
+            "time_text": "23:49",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 1442.866,
+            "action_type": "add_chat_item",
+            "message": "stream band kar rhe",
+            "message_id": "CkUKGkNNdkltSzZQMk80Q0ZYMGVyUVlkX2ZvTGNnEidDTS10aGR1SzJPNENGVWlhandvZGhRd0FXZzE2MTI3MTI4MDM0ODY%3D",
+            "timestamp": 1612712803443830,
+            "time_text": "24:02",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 3239.935,
+            "action_type": "add_chat_item",
+            "message": "heyy",
+            "message_id": "CkUKGkNKS1RtSWVXMk80Q0ZUOHNyUVlkdXZvT0FBEidDTS10aGR1SzJPNENGVWlhandvZGhRd0FXZzE2MTI3MTQ2MDA3MzQ%3D",
+            "timestamp": 1612714600696264,
+            "time_text": "53:59",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 3246.955,
+            "action_type": "add_chat_item",
+            "message": "maii dekh rhii",
+            "message_id": "CkUKGkNKYkZ6SXFXMk80Q0ZYMGVyUVlkX2ZvTGNnEidDTS10aGR1SzJPNENGVWlhandvZGhRd0FXZzE2MTI3MTQ2MDc4OTE%3D",
+            "timestamp": 1612714607846077,
+            "time_text": "54:06",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 3599.344,
+            "action_type": "add_chat_item",
+            "message": "I m here",
+            "message_id": "CkUKGkNPcXl5cktYMk80Q0ZYMGVyUVlkX2ZvTGNnEidDTS10aGR1SzJPNENGVWlhandvZGhRd0FXZzE2MTI3MTQ5NjAxNTg%3D",
+            "timestamp": 1612714960132525,
+            "time_text": "59:59",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 3601.961,
+            "action_type": "add_chat_item",
+            "message": "say",
+            "message_id": "CkUKGkNNdnU0ck9YMk80Q0ZWWV9yUVlkY01JS2R3EidDTS10aGR1SzJPNENGVWlhandvZGhRd0FXZzE2MTI3MTQ5NjI2NjA%3D",
+            "timestamp": 1612714962630538,
+            "time_text": "1:00:01",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 3818.788,
+            "action_type": "add_chat_item",
+            "message": "I see it",
+            "message_id": "CkUKGkNJU2pzWnVZMk80Q0ZVVU9yUVlkb3hBRWN3EidDTS10aGR1SzJPNENGVWlhandvZGhRd0FXZzE2MTI3MTUxNzk5Mzg%3D",
+            "timestamp": 1612715179921845,
+            "time_text": "1:03:38",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 3962.908,
+            "action_type": "add_chat_item",
+            "message": "oho...Gamer AG",
+            "message_id": "CkUKGkNOUGxfdC1ZMk80Q0ZUOHNyUVlkdXZvT0FBEidDUGlhd3RTWTJPNENGZnotT0FZZHVlY0NjUTE2MTI3MTUzMjI1OTI%3D",
+            "timestamp": 1612715323798273,
+            "time_text": "1:06:02",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 4026.687,
+            "action_type": "add_chat_item",
+            "message": "lol you came in my recommendations",
+            "message_id": "CkUKGkNPeW5ydjZZMk80Q0ZiZ1VyUVlkbm9ZSjN3EidDSWVOeF9lWTJPNENGUXBXYUFvZFpIa0tlZzE2MTI3MTUzODU1ODc%3D",
+            "timestamp": 1612715387491353,
+            "time_text": "1:07:06",
+            "author": {
+                "name": "n3mmy",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/7qSuuezQbeFT1pGvrRXo_4pLEZdyJeGqdNzSNMBxcBoD10YcuFIUfyMuEzjvwarm3SY44SUBmA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/7qSuuezQbeFT1pGvrRXo_4pLEZdyJeGqdNzSNMBxcBoD10YcuFIUfyMuEzjvwarm3SY44SUBmA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/7qSuuezQbeFT1pGvrRXo_4pLEZdyJeGqdNzSNMBxcBoD10YcuFIUfyMuEzjvwarm3SY44SUBmA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCWi0yuNvurohxtQ6H7L71Dw"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 4080.488,
+            "action_type": "add_chat_item",
+            "message": "pranam pranam",
+            "message_id": "CkUKGkNJaWtnWmlaMk80Q0ZiZ1VyUVlkbm9ZSjN3EidDTTZzc0pLWjJPNENGVVdFckFJZDJNc0t5dzE2MTI3MTU0MzkzMjE%3D",
+            "timestamp": 1612715441279536,
+            "time_text": "1:08:00",
+            "author": {
+                "name": "n3mmy",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/7qSuuezQbeFT1pGvrRXo_4pLEZdyJeGqdNzSNMBxcBoD10YcuFIUfyMuEzjvwarm3SY44SUBmA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/7qSuuezQbeFT1pGvrRXo_4pLEZdyJeGqdNzSNMBxcBoD10YcuFIUfyMuEzjvwarm3SY44SUBmA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/7qSuuezQbeFT1pGvrRXo_4pLEZdyJeGqdNzSNMBxcBoD10YcuFIUfyMuEzjvwarm3SY44SUBmA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCWi0yuNvurohxtQ6H7L71Dw"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 4081.436,
+            "action_type": "add_chat_item",
+            "message": "yepp now lighting is better..pehle toh pura Flash cha rakhha tha Face pe :grinning_squinting_face:",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CkUKGkNKbXJ2NWlaMk80Q0ZiZ1VyUVlkbm9ZSjN3EidDUDNPc3ZxWTJPNENGYXo2T0FZZEYxMEpsZzE2MTI3MTU0NDExMDc%3D",
+            "timestamp": 1612715442296251,
+            "time_text": "1:08:01",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 4100.568,
+            "action_type": "add_chat_item",
+            "message": "naye bandhe ko dhundh liya huh",
+            "message_id": "CkUKGkNLMjB4YUdaMk80Q0Zjd0RyUVlkQnlRS19REidDTTZzc0pLWjJPNENGVVdFckFJZDJNc0t5dzE2MTI3MTU0NTkzMzM%3D",
+            "timestamp": 1612715461270134,
+            "time_text": "1:08:20",
+            "author": {
+                "name": "n3mmy",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/7qSuuezQbeFT1pGvrRXo_4pLEZdyJeGqdNzSNMBxcBoD10YcuFIUfyMuEzjvwarm3SY44SUBmA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/7qSuuezQbeFT1pGvrRXo_4pLEZdyJeGqdNzSNMBxcBoD10YcuFIUfyMuEzjvwarm3SY44SUBmA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/7qSuuezQbeFT1pGvrRXo_4pLEZdyJeGqdNzSNMBxcBoD10YcuFIUfyMuEzjvwarm3SY44SUBmA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCWi0yuNvurohxtQ6H7L71Dw"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 4181.819,
+            "action_type": "add_chat_item",
+            "message": "to play wingman",
+            "message_id": "CkUKGkNNbkNzc2laMk80Q0ZUOHNyUVlkdXZvT0FBEidDTDIweWNXWjJPNENGWERsT0FZZHd2SUYyQTE2MTI3MTU1NDA4NDc%3D",
+            "timestamp": 1612715542749595,
+            "time_text": "1:09:41",
+            "author": {
+                "name": "n3mmy",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/7qSuuezQbeFT1pGvrRXo_4pLEZdyJeGqdNzSNMBxcBoD10YcuFIUfyMuEzjvwarm3SY44SUBmA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/7qSuuezQbeFT1pGvrRXo_4pLEZdyJeGqdNzSNMBxcBoD10YcuFIUfyMuEzjvwarm3SY44SUBmA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/7qSuuezQbeFT1pGvrRXo_4pLEZdyJeGqdNzSNMBxcBoD10YcuFIUfyMuEzjvwarm3SY44SUBmA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCWi0yuNvurohxtQ6H7L71Dw"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5204.587,
+            "action_type": "add_chat_item",
+            "message": "nope",
+            "message_id": "CjkKGkNPYndockNkMk80Q0ZWWV9yUVlkY01JS2R3EhtDSTNHdkp5ZDJPNENGUUhOYUFvZElrd0gtQTE%3D",
+            "timestamp": 1612716565444762,
+            "time_text": "1:26:44",
+            "author": {
+                "name": "Andrew Singh",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_98q1JK5VauGEJ8td96DNgv0cZTQv7ctzuPA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_98q1JK5VauGEJ8td96DNgv0cZTQv7ctzuPA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_98q1JK5VauGEJ8td96DNgv0cZTQv7ctzuPA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCeIa-sBG1uXzH9oykD2mFeA"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5222.313,
+            "action_type": "add_chat_item",
+            "message": "goodbye",
+            "message_id": "CjkKGkNOWGV1TGlkMk80Q0ZiZ1VyUVlkbm9ZSjN3EhtDSTNHdkp5ZDJPNENGUUhOYUFvZElrd0gtQTI%3D",
+            "timestamp": 1612716583038839,
+            "time_text": "1:27:02",
+            "author": {
+                "name": "Andrew Singh",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_98q1JK5VauGEJ8td96DNgv0cZTQv7ctzuPA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_98q1JK5VauGEJ8td96DNgv0cZTQv7ctzuPA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_98q1JK5VauGEJ8td96DNgv0cZTQv7ctzuPA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCeIa-sBG1uXzH9oykD2mFeA"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5262.966,
+            "action_type": "add_chat_item",
+            "message": "finally cs",
+            "message_id": "CjkKGkNNeXI5TXVkMk80Q0ZYMGVyUVlkX2ZvTGNnEhtDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTA%3D",
+            "timestamp": 1612716623861235,
+            "time_text": "1:27:42",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5317.313,
+            "action_type": "add_chat_item",
+            "message": "how do you bhop ?",
+            "message_id": "CjkKGkNQdjAydVdkMk80Q0ZUOHNyUVlkdXZvT0FBEhtDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTE%3D",
+            "timestamp": 1612716677970627,
+            "time_text": "1:28:37",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5397.334,
+            "action_type": "add_chat_item",
+            "message": "op shot",
+            "message_id": "CjkKGkNPT0NfNHVlMk80Q0Zjd0RyUVlkQnlRS19REhtDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTM%3D",
+            "timestamp": 1612716758253979,
+            "time_text": "1:29:57",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5411.6,
+            "action_type": "add_chat_item",
+            "message": "copyright lagega]",
+            "message_id": "CjkKGkNQWE40SktlMk80Q0ZWWV9yUVlkY01JS2R3EhtDUHVSaDQyZTJPNENGZUdDd2dFZEh0d0pMUTA%3D",
+            "timestamp": 1612716772435755,
+            "time_text": "1:30:11",
+            "author": {
+                "name": "Tushar Sehgal",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu9z86gav7z8Q8i2qfwiyPwENmNzM5njUR76NYsu5g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu9z86gav7z8Q8i2qfwiyPwENmNzM5njUR76NYsu5g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu9z86gav7z8Q8i2qfwiyPwENmNzM5njUR76NYsu5g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UC1feqrJP9OHkEoxxmu4Vxww"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5435.893,
+            "action_type": "add_chat_item",
+            "message": "lol tu mere pasand ke songs sunra hai :grinning_squinting_face:",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNNV1JvSjZlMk80Q0ZiZ1VyUVlkbm9ZSjN3EhtDUHVSaDQyZTJPNENGZUdDd2dFZEh0d0pMUTE%3D",
+            "timestamp": 1612716796545254,
+            "time_text": "1:30:35",
+            "author": {
+                "name": "Tushar Sehgal",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu9z86gav7z8Q8i2qfwiyPwENmNzM5njUR76NYsu5g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu9z86gav7z8Q8i2qfwiyPwENmNzM5njUR76NYsu5g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu9z86gav7z8Q8i2qfwiyPwENmNzM5njUR76NYsu5g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UC1feqrJP9OHkEoxxmu4Vxww"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5452.602,
+            "action_type": "add_chat_item",
+            "message": "ye song is literally too OP",
+            "message_id": "CjkKGkNOVHRucWFlMk80Q0ZWWV9yUVlkY01JS2R3EhtDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTQ%3D",
+            "timestamp": 1612716813301522,
+            "time_text": "1:30:52",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5482.525,
+            "action_type": "add_chat_item",
+            "message": "wtf hud",
+            "message_id": "CjkKGkNQZWh2TFNlMk80Q0ZWWV9yUVlkY01JS2R3EhtDSnJnbTdLZTJPNENGUmZWZ2dvZHFqVUFWZzA%3D",
+            "timestamp": 1612716843143554,
+            "time_text": "1:31:22",
+            "author": {
+                "name": "Satyaki Das",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCZwNcGQ9GAOzrYOTNpNmh_w"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5494.88,
+            "action_type": "add_chat_item",
+            "message": "mast mai bhi nach raha hu",
+            "message_id": "CjkKGkNPbWh3THFlMk80Q0ZWWV9yUVlkY01JS2R3EhtDUHVSaDQyZTJPNENGZUdDd2dFZEh0d0pMUTI%3D",
+            "timestamp": 1612716855791907,
+            "time_text": "1:31:34",
+            "author": {
+                "name": "Tushar Sehgal",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu9z86gav7z8Q8i2qfwiyPwENmNzM5njUR76NYsu5g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu9z86gav7z8Q8i2qfwiyPwENmNzM5njUR76NYsu5g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu9z86gav7z8Q8i2qfwiyPwENmNzM5njUR76NYsu5g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UC1feqrJP9OHkEoxxmu4Vxww"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5498.618,
+            "action_type": "add_chat_item",
+            "message": "game sound band karde :grinning_squinting_face:",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNNZVhucnllMk80Q0ZUOHNyUVlkdXZvT0FBEhtDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTU%3D",
+            "timestamp": 1612716859427817,
+            "time_text": "1:31:38",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5507.698,
+            "action_type": "add_chat_item",
+            "message": "gaana OP",
+            "message_id": "CjkKGkNKV1p4OENlMk80Q0ZmSU1mUW9ka1I4RF9BEhtDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTY%3D",
+            "timestamp": 1612716868488449,
+            "time_text": "1:31:47",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5511.887,
+            "action_type": "add_chat_item",
+            "message": "aaarey kitne dino baad this song",
+            "message_id": "CjkKGkNPbXF3TUtlMk80Q0ZjOFFyUVlkQ2VnSTBnEhtDSnJnbTdLZTJPNENGUmZWZ2dvZHFqVUFWZzE%3D",
+            "timestamp": 1612716872570271,
+            "time_text": "1:31:51",
+            "author": {
+                "name": "Satyaki Das",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCZwNcGQ9GAOzrYOTNpNmh_w"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5570.489,
+            "action_type": "add_chat_item",
+            "message": "XDDD",
+            "message_id": "CjkKGkNKT2d3OTZlMk80Q0ZmOHFyUVlkWXA0Q193EhtDSnJnbTdLZTJPNENGUmZWZ2dvZHFqVUFWZzI%3D",
+            "timestamp": 1612716931338305,
+            "time_text": "1:32:50",
+            "author": {
+                "name": "Satyaki Das",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCZwNcGQ9GAOzrYOTNpNmh_w"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5607.692,
+            "action_type": "add_chat_item",
+            "message": "this guy is reading comments before i am even sending it LMAO",
+            "message_id": "CjkKGkNPYXltZkNlMk80Q0ZUOHNyUVlkdXZvT0FBEhtDUHVSaDQyZTJPNENGZUdDd2dFZEh0d0pMUTM%3D",
+            "timestamp": 1612716968401313,
+            "time_text": "1:33:27",
+            "author": {
+                "name": "Tushar Sehgal",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu9z86gav7z8Q8i2qfwiyPwENmNzM5njUR76NYsu5g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu9z86gav7z8Q8i2qfwiyPwENmNzM5njUR76NYsu5g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu9z86gav7z8Q8i2qfwiyPwENmNzM5njUR76NYsu5g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UC1feqrJP9OHkEoxxmu4Vxww"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5617.968,
+            "action_type": "add_chat_item",
+            "message": "@Tushar Sehgal lmao exactly",
+            "message_id": "CjkKGkNLalRsX1dlMk80Q0ZmSU1mUW9ka1I4RF9BEhtDSnJnbTdLZTJPNENGUmZWZ2dvZHFqVUFWZzQ%3D",
+            "timestamp": 1612716978858471,
+            "time_text": "1:33:37",
+            "author": {
+                "name": "Satyaki Das",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCZwNcGQ9GAOzrYOTNpNmh_w"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5648.347,
+            "action_type": "add_chat_item",
+            "message": "he predicts the chat :grinning_squinting_face:",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNMSDR6NE9mMk80Q0ZWWV9yUVlkY01JS2R3EhtDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTg%3D",
+            "timestamp": 1612717009140815,
+            "time_text": "1:34:08",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5661.84,
+            "action_type": "add_chat_item",
+            "message": "what a legend",
+            "message_id": "CjkKGkNPMjFpSXFmMk80Q0ZYY1hyUVlkYnpVTzN3EhtDUHVSaDQyZTJPNENGZUdDd2dFZEh0d0pMUTQ%3D",
+            "timestamp": 1612717022649104,
+            "time_text": "1:34:21",
+            "author": {
+                "name": "Tushar Sehgal",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu9z86gav7z8Q8i2qfwiyPwENmNzM5njUR76NYsu5g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu9z86gav7z8Q8i2qfwiyPwENmNzM5njUR76NYsu5g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu9z86gav7z8Q8i2qfwiyPwENmNzM5njUR76NYsu5g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UC1feqrJP9OHkEoxxmu4Vxww"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5742.392,
+            "action_type": "add_chat_item",
+            "message": "come to AG's stream you'll remember your childhood",
+            "message_id": "CjkKGkNORHp0YkNmMk80Q0ZUOHNyUVlkdXZvT0FBEhtDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTk%3D",
+            "timestamp": 1612717103086070,
+            "time_text": "1:35:42",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5870.785,
+            "action_type": "add_chat_item",
+            "message": "nice molly",
+            "message_id": "CjkKGkNPbk0zLTJmMk80Q0ZVVU9yUVlkb3hBRWN3EhtDSTJxbkpLZjJPNENGYWItT0FZZFVtVUJBZzc%3D",
+            "timestamp": 1612717231695506,
+            "time_text": "1:37:50",
+            "author": {
+                "name": "Satyaki Das",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCZwNcGQ9GAOzrYOTNpNmh_w"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5897.6,
+            "action_type": "add_chat_item",
+            "message": "hope my laptop could handle spotify while playing games",
+            "message_id": "CjoKGkNNUzd5X3FmMk80Q0Zjd0RyUVlkQnlRS19REhxDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTEw",
+            "timestamp": 1612717258628609,
+            "time_text": "1:38:17",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5912.407,
+            "action_type": "add_chat_item",
+            "message": "i use spotify",
+            "message_id": "CjoKGkNPWHd5NEdnMk80Q0ZjOFFyUVlkQ2VnSTBnEhxDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTEx",
+            "timestamp": 1612717273315481,
+            "time_text": "1:38:32",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5964.799,
+            "action_type": "add_chat_item",
+            "message": "which playlist is this plis",
+            "message_id": "CjkKGkNQRGN3cHFnMk80Q0ZiZ1VyUVlkbm9ZSjN3EhtDSTJxbkpLZjJPNENGYWItT0FZZFVtVUJBZzg%3D",
+            "timestamp": 1612717325594266,
+            "time_text": "1:39:24",
+            "author": {
+                "name": "Satyaki Das",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCZwNcGQ9GAOzrYOTNpNmh_w"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 5980.265,
+            "action_type": "add_chat_item",
+            "message": "pls share this playlist link dede",
+            "message_id": "CjoKGkNNSGI5YUdnMk80Q0ZiZ1VyUVlkbm9ZSjN3EhxDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTEz",
+            "timestamp": 1612717341109738,
+            "time_text": "1:39:40",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 6005.626,
+            "action_type": "add_chat_item",
+            "message": "!rank",
+            "message_id": "CkUKGkNNNmE5NjJnMk80Q0ZYMGVyUVlkX2ZvTGNnEidDT091aUt5ZzJPNENGV3JDY3dFZDd4a0pZQTE2MTI3MTczNjUxMjQ%3D",
+            "timestamp": 1612717366300180,
+            "time_text": "1:40:05",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 6052.584,
+            "action_type": "add_chat_item",
+            "message": "I m gonna sleep byeee",
+            "message_id": "CkUKGkNLenJzTVNnMk80Q0ZYMGVyUVlkX2ZvTGNnEidDS1hQb19PZTJPNENGZHpfY3dFZG9NQVBDQTE2MTI3MTc0MTM0NjU%3D",
+            "timestamp": 1612717413381596,
+            "time_text": "1:40:52",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 6056.925,
+            "action_type": "add_chat_item",
+            "message": "Good night",
+            "message_id": "CkUKGkNOLUtzY2FnMk80Q0ZYY1hyUVlkYnpVTzN3EidDS1hQb19PZTJPNENGZHpfY3dFZG9NQVBDQTE2MTI3MTc0MTc2ODM%3D",
+            "timestamp": 1612717417579899,
+            "time_text": "1:40:56",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 6092.587,
+            "action_type": "add_chat_item",
+            "message": "F mic",
+            "message_id": "CjoKGkNLVzd1ZGVnMk80Q0ZVVU9yUVlkb3hBRWN3EhxDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTE3",
+            "timestamp": 1612717453368797,
+            "time_text": "1:41:32",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 6114.961,
+            "action_type": "add_chat_item",
+            "message": "F screen",
+            "message_id": "CjoKGkNNZkttT0tnMk80Q0Zld3JyUVlkWUdjSTZnEhxDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTE4",
+            "timestamp": 1612717475898728,
+            "time_text": "1:41:54",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 6151.633,
+            "action_type": "add_chat_item",
+            "message": "ohhhhhhhhhhhhhhhhh",
+            "message_id": "CjoKGkNKdkYwdk9nMk80Q0Zld3JyUVlkWUdjSTZnEhxDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTIx",
+            "timestamp": 1612717512499906,
+            "time_text": "1:42:31",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 6196.806,
+            "action_type": "add_chat_item",
+            "message": "bro you had an ak",
+            "message_id": "CjoKGkNQV3Btb21oMk80Q0ZjOFFyUVlkQ2VnSTBnEhxDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTIy",
+            "timestamp": 1612717557716247,
+            "time_text": "1:43:16",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 6238.349,
+            "action_type": "add_chat_item",
+            "message": ":grinning_squinting_face: np",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjoKGkNLcjk5cHloMk80Q0ZZQUhyUVlkXzlrTjlnEhxDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTI0",
+            "timestamp": 1612717599080158,
+            "time_text": "1:43:58",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 6241.887,
+            "action_type": "add_chat_item",
+            "message": "ak tha bhai",
+            "message_id": "CjoKGkNMWFd6SjZoMk80Q0ZYMGVyUVlkX2ZvTGNnEhxDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTI1",
+            "timestamp": 1612717602581350,
+            "time_text": "1:44:01",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 6313.975,
+            "action_type": "add_chat_item",
+            "message": "rip",
+            "message_id": "CjoKGkNNWFlqY0doMk80Q0ZiZ1VyUVlkbm9ZSjN3EhxDUG43bE1pZDJPNENGVVVhMVFvZG5YMEFDQTI3",
+            "timestamp": 1612717674949746,
+            "time_text": "1:45:13",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 6696.486,
+            "action_type": "add_chat_item",
+            "message": "bye bye",
+            "message_id": "CjkKGkNObVV3UGVpMk80Q0Zjd0RyUVlkQnlRS19REhtDTVBac0xXaTJPNENGYzZCckFJZGlUZ1BkdzE%3D",
+            "timestamp": 1612718057458326,
+            "time_text": "1:51:36",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 6708.695,
+            "action_type": "add_chat_item",
+            "message": "dekha maine :grinning_squinting_face: ",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNOYnZuUDJpMk80Q0ZjOFFyUVlkQ2VnSTBnEhtDTVBac0xXaTJPNENGYzZCckFJZGlUZ1BkdzI%3D",
+            "timestamp": 1612718069463070,
+            "time_text": "1:51:48",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 6768.608,
+            "action_type": "add_chat_item",
+            "message": "lol can't stop laughing :grinning_squinting_face: :grinning_squinting_face: :grinning_squinting_face:",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNLaVk3cG1qMk80Q0ZjOFFyUVlkQ2VnSTBnEhtDTVBac0xXaTJPNENGYzZCckFJZGlUZ1BkdzM%3D",
+            "timestamp": 1612718129515594,
+            "time_text": "1:52:48",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 6779.596,
+            "action_type": "add_chat_item",
+            "message": "bye bye",
+            "message_id": "CjkKGkNPUGFqNS1qMk80Q0Zld3JyUVlkWUdjSTZnEhtDTVBac0xXaTJPNENGYzZCckFJZGlUZ1BkdzU%3D",
+            "timestamp": 1612718140550551,
+            "time_text": "1:52:59",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 6885.479,
+            "action_type": "add_chat_item",
+            "message": "ak nahi tha woh bhi :grinning_squinting_face:",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNQNnN3TkdqMk80Q0ZiZ1VyUVlkbm9ZSjN3EhtDTVBac0xXaTJPNENGYzZCckFJZGlUZ1BkdzY%3D",
+            "timestamp": 1612718246205087,
+            "time_text": "1:54:45",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 6964.883,
+            "action_type": "add_chat_item",
+            "message": "bisi silvers aa gye the team ",
+            "message_id": "CjkKGkNKTFd3UGVqMk80Q0ZUOHNyUVlkdXZvT0FBEhtDTGlHbUxxajJPNENGY1BXVEFJZDhLRUxYQTI%3D",
+            "timestamp": 1612718325902131,
+            "time_text": "1:56:04",
+            "author": {
+                "name": "PRO Aggression",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8qiCdQbGRy7g2inQApYFqP_LCMZYUtjMjJJaA82g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8qiCdQbGRy7g2inQApYFqP_LCMZYUtjMjJJaA82g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8qiCdQbGRy7g2inQApYFqP_LCMZYUtjMjJJaA82g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCYot1w68bqPeBC_Vj1SnUiQ"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 7007.885,
+            "action_type": "add_chat_item",
+            "message": "yhi round tha",
+            "message_id": "CjkKGkNOM004b3VrMk80Q0Zjd0RyUVlkQnlRS19REhtDTGlHbUxxajJPNENGY1BXVEFJZDhLRUxYQTM%3D",
+            "timestamp": 1612718368663171,
+            "time_text": "1:56:47",
+            "author": {
+                "name": "PRO Aggression",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8qiCdQbGRy7g2inQApYFqP_LCMZYUtjMjJJaA82g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8qiCdQbGRy7g2inQApYFqP_LCMZYUtjMjJJaA82g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8qiCdQbGRy7g2inQApYFqP_LCMZYUtjMjJJaA82g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCYot1w68bqPeBC_Vj1SnUiQ"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 7068.437,
+            "action_type": "add_chat_item",
+            "message": ":grinning_squinting_face:",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNOVzkxNmlrMk80Q0ZVVU9yUVlkb3hBRWN3EhtDTGlHbUxxajJPNENGY1BXVEFJZDhLRUxYQTY%3D",
+            "timestamp": 1612718429036298,
+            "time_text": "1:57:48",
+            "author": {
+                "name": "PRO Aggression",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8qiCdQbGRy7g2inQApYFqP_LCMZYUtjMjJJaA82g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8qiCdQbGRy7g2inQApYFqP_LCMZYUtjMjJJaA82g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8qiCdQbGRy7g2inQApYFqP_LCMZYUtjMjJJaA82g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCYot1w68bqPeBC_Vj1SnUiQ"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 7159.67,
+            "action_type": "add_chat_item",
+            "message": ":grinning_squinting_face:",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjoKGkNOT0lyZFNrMk80Q0ZWWV9yUVlkY01JS2R3EhxDTVBac0xXaTJPNENGYzZCckFJZGlUZ1BkdzEw",
+            "timestamp": 1612718520616084,
+            "time_text": "1:59:19",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 7261.753,
+            "action_type": "add_chat_item",
+            "message": "agar koi shreya ghoshal ki playlist hongi toh pls play",
+            "message_id": "CjoKGkNJdkQtWVNsMk80Q0ZjOFFyUVlkQ2VnSTBnEhxDTVBac0xXaTJPNENGYzZCckFJZGlUZ1BkdzEx",
+            "timestamp": 1612718622532013,
+            "time_text": "2:01:01",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 7303.434,
+            "action_type": "add_chat_item",
+            "message": "some songs are too good",
+            "message_id": "CjoKGkNLamE2cGlsMk80Q0ZmSU1mUW9ka1I4RF9BEhxDTVBac0xXaTJPNENGYzZCckFJZGlUZ1BkdzEy",
+            "timestamp": 1612718664232291,
+            "time_text": "2:01:43",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 7340.685,
+            "action_type": "add_chat_item",
+            "message": ":grinning_squinting_face: :grinning_squinting_face: :grinning_squinting_face:",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjoKGkNOdTYxcXFsMk80Q0ZiZ1VyUVlkbm9ZSjN3EhxDTVBac0xXaTJPNENGYzZCckFJZGlUZ1BkdzE0",
+            "timestamp": 1612718701649286,
+            "time_text": "2:02:20",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 7582.794,
+            "action_type": "add_chat_item",
+            "message": "jab se tere naine another OP song",
+            "message_id": "CjoKGkNNTEFoSjZtMk80Q0ZVVU9yUVlkb3hBRWN3EhxDTVBac0xXaTJPNENGYzZCckFJZGlUZ1BkdzE1",
+            "timestamp": 1612718943576181,
+            "time_text": "2:06:22",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 7629.708,
+            "action_type": "add_chat_item",
+            "message": ":grinning_squinting_face: ",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjoKGkNKZnRzclNtMk80Q0ZiZ1VyUVlkbm9ZSjN3EhxDTVBac0xXaTJPNENGYzZCckFJZGlUZ1BkdzE3",
+            "timestamp": 1612718990472898,
+            "time_text": "2:07:09",
+            "author": {
+                "name": "GlitchyShaan",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu8k4GpNwlCS9LObiKlSi1dPCMl6PonkGcIqzuvkHA=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCptsmczdE8CCeESpk4hEZag"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 7926.263,
+            "action_type": "add_chat_item",
+            "message": "god AG",
+            "message_id": "CkUKGkNMYks4c0duMk80Q0ZiZ1VyUVlkbm9ZSjN3EidDSzNVOUtPbjJPNENGZFNCY0FvZDlia0FRUTE2MTI3MTkzMzM5NDI%3D",
+            "timestamp": 1612719287215454,
+            "time_text": "2:12:06",
+            "author": {
+                "name": "The Nemesis",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC9EsHxvj8oKZvvL_noomiEw"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 7945.442,
+            "action_type": "add_chat_item",
+            "message": "51 subs lets go",
+            "message_id": "CkUKGkNLYUNoTXVuMk80Q0ZYY1hyUVlkYnpVTzN3EidDSzNVOUtPbjJPNENGZFNCY0FvZDlia0FRUTE2MTI3MTkzNTMxMjQ%3D",
+            "timestamp": 1612719306375516,
+            "time_text": "2:12:25",
+            "author": {
+                "name": "The Nemesis",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC9EsHxvj8oKZvvL_noomiEw"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 7953.839,
+            "action_type": "add_chat_item",
+            "message": "buy 3060 ti",
+            "message_id": "CkUKGkNQXzNfczZuMk80Q0Zld3JyUVlkWUdjSTZnEidDSzNVOUtPbjJPNENGZFNCY0FvZDlia0FRUTE2MTI3MTkzNjE0MDc%3D",
+            "timestamp": 1612719314680888,
+            "time_text": "2:12:33",
+            "author": {
+                "name": "The Nemesis",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC9EsHxvj8oKZvvL_noomiEw"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 7959.679,
+            "action_type": "add_chat_item",
+            "message": "and stream like hell",
+            "message_id": "CkUKGkNOaXk0OUduMk80Q0ZYMGVyUVlkX2ZvTGNnEidDSzNVOUtPbjJPNENGZFNCY0FvZDlia0FRUTE2MTI3MTkzNjcyNTc%3D",
+            "timestamp": 1612719320521078,
+            "time_text": "2:12:39",
+            "author": {
+                "name": "The Nemesis",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC9EsHxvj8oKZvvL_noomiEw"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 7971.512,
+            "action_type": "add_chat_item",
+            "message": "last game was lit :grinning_squinting_face:",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNQVzd0OWVuMk80Q0Zjd0RyUVlkQnlRS19REhtDS3U4c05LbjJPNENGZWdGZ3dvZDJKa0NvZzE%3D",
+            "timestamp": 1612719332384288,
+            "time_text": "2:12:51",
+            "author": {
+                "name": "Mayank",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_nBMJvvzVLvcyI539f0xU2vHFq3v_ocJofe13pdIg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_nBMJvvzVLvcyI539f0xU2vHFq3v_ocJofe13pdIg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_nBMJvvzVLvcyI539f0xU2vHFq3v_ocJofe13pdIg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCjpghXK_JHU7TKUBXVRFujQ"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 7982.479,
+            "action_type": "add_chat_item",
+            "message": "it is cheap",
+            "message_id": "CkUKGkNPX18xdHluMk80Q0ZUOHNyUVlkdXZvT0FBEidDSzNVOUtPbjJPNENGZFNCY0FvZDlia0FRUTE2MTI3MTkzOTAxMDg%3D",
+            "timestamp": 1612719343386671,
+            "time_text": "2:13:02",
+            "author": {
+                "name": "The Nemesis",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC9EsHxvj8oKZvvL_noomiEw"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 7986.983,
+            "action_type": "add_chat_item",
+            "message": "i was your teammate dide",
+            "message_id": "CjkKGkNOYnk0ZDZuMk80Q0ZZQUhyUVlkXzlrTjlnEhtDS3U4c05LbjJPNENGZWdGZ3dvZDJKa0NvZzI%3D",
+            "timestamp": 1612719347759479,
+            "time_text": "2:13:06",
+            "author": {
+                "name": "Mayank",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_nBMJvvzVLvcyI539f0xU2vHFq3v_ocJofe13pdIg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_nBMJvvzVLvcyI539f0xU2vHFq3v_ocJofe13pdIg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_nBMJvvzVLvcyI539f0xU2vHFq3v_ocJofe13pdIg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCjpghXK_JHU7TKUBXVRFujQ"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 7996.99,
+            "action_type": "add_chat_item",
+            "message": "and good at giving performance and stream",
+            "message_id": "CkUKGkNQdjh3LU9uMk80Q0Zjd0RyUVlkQnlRS19REidDSzNVOUtPbjJPNENGZFNCY0FvZDlia0FRUTE2MTI3MTk0MDQ0OTM%3D",
+            "timestamp": 1612719357755058,
+            "time_text": "2:13:16",
+            "author": {
+                "name": "The Nemesis",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_UbV34862zFL6I8kg048_wWHANJs1VUVVlzE-G=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC9EsHxvj8oKZvvL_noomiEw"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 8001.683,
+            "action_type": "add_chat_item",
+            "message": ":grinning_squinting_face:",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNLeUw1T1duMk80Q0Zld3JyUVlkWUdjSTZnEhtDS3U4c05LbjJPNENGZWdGZ3dvZDJKa0NvZzQ%3D",
+            "timestamp": 1612719362475499,
+            "time_text": "2:13:21",
+            "author": {
+                "name": "Mayank",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_nBMJvvzVLvcyI539f0xU2vHFq3v_ocJofe13pdIg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_nBMJvvzVLvcyI539f0xU2vHFq3v_ocJofe13pdIg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_nBMJvvzVLvcyI539f0xU2vHFq3v_ocJofe13pdIg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCjpghXK_JHU7TKUBXVRFujQ"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 8004.494,
+            "action_type": "add_chat_item",
+            "message": "yeah ",
+            "message_id": "CjkKGkNPXzRtdWVuMk80Q0ZVVU9yUVlkb3hBRWN3EhtDS3U4c05LbjJPNENGZWdGZ3dvZDJKa0NvZzU%3D",
+            "timestamp": 1612719365471420,
+            "time_text": "2:13:24",
+            "author": {
+                "name": "Mayank",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_nBMJvvzVLvcyI539f0xU2vHFq3v_ocJofe13pdIg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_nBMJvvzVLvcyI539f0xU2vHFq3v_ocJofe13pdIg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_nBMJvvzVLvcyI539f0xU2vHFq3v_ocJofe13pdIg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCjpghXK_JHU7TKUBXVRFujQ"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 8200.443,
+            "action_type": "add_chat_item",
+            "message": "dude you might get dmca'd from this",
+            "message_id": "CjkKGkNJVDZ4OFNvMk80Q0ZiZ1VyUVlkbm9ZSjN3EhtDSnJJc2JXbzJPNENGU2lBWXdZZDBDZ0pBdzA%3D",
+            "timestamp": 1612719561243949,
+            "time_text": "2:16:40",
+            "author": {
+                "name": "Naman Sharma",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-OQRW9IkDaQKlgWnMRQkoenwd-IuCMpFKbwjJ4QQ",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-OQRW9IkDaQKlgWnMRQkoenwd-IuCMpFKbwjJ4QQ=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-OQRW9IkDaQKlgWnMRQkoenwd-IuCMpFKbwjJ4QQ=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCbBY7LRpwi9zpNMB0JJY5bA"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 8233.941,
+            "action_type": "add_chat_item",
+            "message": "good byeeeeeee",
+            "message_id": "CjkKGkNPVG1zOVNvMk80Q0ZUOHNyUVlkdXZvT0FBEhtDUE9hMF9LSjJPNENGUW95dHdBZEw4d0JmUTA%3D",
+            "timestamp": 1612719594468232,
+            "time_text": "2:17:13",
+            "author": {
+                "name": "Suraj",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/_iLgg5EI3iVojMLHoQh4RH3kTzIYJlLXPLKMpJMBsvEphdEbPyJjNLS9ijpalxQBWa5qV6vT0bQ",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/_iLgg5EI3iVojMLHoQh4RH3kTzIYJlLXPLKMpJMBsvEphdEbPyJjNLS9ijpalxQBWa5qV6vT0bQ=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/_iLgg5EI3iVojMLHoQh4RH3kTzIYJlLXPLKMpJMBsvEphdEbPyJjNLS9ijpalxQBWa5qV6vT0bQ=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Owner",
+                        "icon_name": "owner"
+                    }
+                ],
+                "id": "UCbZZmB8L3IEHutGbvpWo9Ow"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        },
+        {
+            "time_in_seconds": 8239.807,
+            "action_type": "add_chat_item",
+            "message": ":red_heart: ",
+            "emotes": [
+                {
+                    "id": "\u2764",
+                    "name": ":red_heart:",
+                    "shortcuts": [
+                        ":red_heart:",
+                        ":heart:",
+                        "<3"
+                    ],
+                    "search_terms": [
+                        "red",
+                        "heart"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u2764.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u2764.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNNVGZ1ZGVvMk80Q0ZYY1hyUVlkYnpVTzN3EhtDUE9hMF9LSjJPNENGUW95dHdBZEw4d0JmUTI%3D",
+            "timestamp": 1612719600857075,
+            "time_text": "2:17:19",
+            "author": {
+                "name": "Suraj",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/_iLgg5EI3iVojMLHoQh4RH3kTzIYJlLXPLKMpJMBsvEphdEbPyJjNLS9ijpalxQBWa5qV6vT0bQ",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/_iLgg5EI3iVojMLHoQh4RH3kTzIYJlLXPLKMpJMBsvEphdEbPyJjNLS9ijpalxQBWa5qV6vT0bQ=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/_iLgg5EI3iVojMLHoQh4RH3kTzIYJlLXPLKMpJMBsvEphdEbPyJjNLS9ijpalxQBWa5qV6vT0bQ=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Owner",
+                        "icon_name": "owner"
+                    }
+                ],
+                "id": "UCbZZmB8L3IEHutGbvpWo9Ow"
+            },
+            "message_type": "text_message",
+            "vid": "tbcUlRd9eag"
+        }
+    ]
+}

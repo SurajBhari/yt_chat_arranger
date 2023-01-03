@@ -1,0 +1,3004 @@
+{
+    "messages": [
+        {
+            "time_in_seconds": 60.581,
+            "action_type": "add_chat_item",
+            "message": "StreamElements bot running :robot:",
+            "emotes": [
+                {
+                    "id": "\ud83e\udd16",
+                    "name": ":robot:",
+                    "shortcuts": [
+                        ":robot:",
+                        ":robot_face:"
+                    ],
+                    "search_terms": [
+                        "robot",
+                        "face"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f916.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f916.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "ChwKGkNLbklpNERBMWU0Q0ZmTEx3UW9kTFlJRGVn",
+            "timestamp": 1612622780884050,
+            "time_text": "1:00",
+            "author": {
+                "name": "StreamElements",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/x8sAVmPAwu6AZcosGKgh4JfEoSUwJ6cILYCtEbKMOpmuJxsoD0XS0V6nn7COTDUCm7fDq2Cr",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/x8sAVmPAwu6AZcosGKgh4JfEoSUwJ6cILYCtEbKMOpmuJxsoD0XS0V6nn7COTDUCm7fDq2Cr=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/x8sAVmPAwu6AZcosGKgh4JfEoSUwJ6cILYCtEbKMOpmuJxsoD0XS0V6nn7COTDUCm7fDq2Cr=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Verified",
+                        "icon_name": "verified"
+                    },
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCjerlCIbLPQwSnYlClkjDXg"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 124.862,
+            "action_type": "add_chat_item",
+            "message": "brown munde",
+            "message_id": "CkUKGkNKTG00SjdBMWU0Q0ZWZ01yUVlkaXlzR1lnEidDTUg3M0pmQTFlNENGVkJPandvZElzMFBuUTE2MTI2MjI4NDQ2MTU%3D",
+            "timestamp": 1612622845195059,
+            "time_text": "2:04",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 135.594,
+            "action_type": "add_chat_item",
+            "message": ":eyes:",
+            "emotes": [
+                {
+                    "id": "\ud83d\udc40",
+                    "name": ":eyes:",
+                    "shortcuts": [
+                        ":eyes:"
+                    ],
+                    "search_terms": [
+                        "eyes"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f440.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f440.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CkUKGkNOTDg0NlBBMWU0Q0ZVVU9yUVlkb3hBRWN3EidDTUg3M0pmQTFlNENGVkJPandvZElzMFBuUTE2MTI2MjI4NTUxMTc%3D",
+            "timestamp": 1612622855732937,
+            "time_text": "2:15",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 196.792,
+            "action_type": "add_chat_item",
+            "message": "what's the plan",
+            "message_id": "CkUKGkNLM2NpOEhBMWU0Q0ZWWV9yUVlkY01JS2R3EidDTUg3M0pmQTFlNENGVkJPandvZElzMFBuUTE2MTI2MjI5MTY1Njk%3D",
+            "timestamp": 1612622917201575,
+            "time_text": "3:16",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 201.962,
+            "action_type": "add_chat_item",
+            "message": ":eyes:",
+            "emotes": [
+                {
+                    "id": "\ud83d\udc40",
+                    "name": ":eyes:",
+                    "shortcuts": [
+                        ":eyes:"
+                    ],
+                    "search_terms": [
+                        "eyes"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f440.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f440.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CkUKGkNQYXR1Y1BBMWU0Q0ZYMGVyUVlkX2ZvTGNnEidDTUg3M0pmQTFlNENGVkJPandvZElzMFBuUTE2MTI2MjI5MjE1NDc%3D",
+            "timestamp": 1612622922143518,
+            "time_text": "3:21",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 233.912,
+            "action_type": "add_chat_item",
+            "message": ":eyes:",
+            "emotes": [
+                {
+                    "id": "\ud83d\udc40",
+                    "name": ":eyes:",
+                    "shortcuts": [
+                        ":eyes:"
+                    ],
+                    "search_terms": [
+                        "eyes"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f440.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f440.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CkUKGkNOUDM0OUxBMWU0Q0ZjMHNyUVlkeDFJRlp3EidDTUg3M0pmQTFlNENGVkJPandvZElzMFBuUTE2MTI2MjI5NTM3MDA%3D",
+            "timestamp": 1612622954298371,
+            "time_text": "3:53",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 246.451,
+            "action_type": "add_chat_item",
+            "message": "I want to slap someone seriously",
+            "message_id": "CkUKGkNQaXEwZGpBMWU0Q0ZZQUhyUVlkXzlrTjlnEidDTUg3M0pmQTFlNENGVkJPandvZElzMFBuUTE2MTI2MjI5NjU5NTE%3D",
+            "timestamp": 1612622966576547,
+            "time_text": "4:06",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 313.292,
+            "action_type": "add_chat_item",
+            "message": "i am tired :tired_face:of it I don't understand things you are doing",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude2b",
+                    "name": ":tired_face:",
+                    "shortcuts": [
+                        ":tired_face:"
+                    ],
+                    "search_terms": [
+                        "tired",
+                        "face"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f62b.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f62b.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CkUKGkNQLVp6X2pBMWU0Q0ZZQUhyUVlkXzlrTjlnEidDTUg3M0pmQTFlNENGVkJPandvZElzMFBuUTE2MTI2MjMwMzMwNzU%3D",
+            "timestamp": 1612623033650468,
+            "time_text": "5:13",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 342.866,
+            "action_type": "add_chat_item",
+            "message": "I need to",
+            "message_id": "CkUKGkNMYVoyb2JCMWU0Q0ZVVU9yUVlkb3hBRWN3EidDTUg3M0pmQTFlNENGVkJPandvZElzMFBuUTE2MTI2MjMwNjI1NzA%3D",
+            "timestamp": 1612623063190745,
+            "time_text": "5:42",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 347.755,
+            "action_type": "add_chat_item",
+            "message": "fix your hair",
+            "message_id": "CkUKGkNMZUNoSW5CMWU0Q0ZYMGVyUVlkX2ZvTGNnEidDTUg3M0pmQTFlNENGVkJPandvZElzMFBuUTE2MTI2MjMwNjc0NTU%3D",
+            "timestamp": 1612623068070243,
+            "time_text": "5:47",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 360.633,
+            "action_type": "add_chat_item",
+            "message": "@Golden Myst :upside_down_face:",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude43",
+                    "name": ":upside_down_face:",
+                    "shortcuts": [
+                        ":upside_down_face:",
+                        "!:)",
+                        "!-:)",
+                        "!=)"
+                    ],
+                    "search_terms": [
+                        "upside",
+                        "down",
+                        "face"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f643.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f643.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNPckZxSV9CMWU0Q0ZVVU9yUVlkb3hBRWN3EhtDUFdxeWZyQTFlNENGWS1sV0FvZDd3VUctQTE%3D",
+            "timestamp": 1612623081251617,
+            "time_text": "6:00",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 378.788,
+            "action_type": "add_chat_item",
+            "message": "Nice montage",
+            "message_id": "CkUKGkNONmg3cGZCMWU0Q0Zjd0RyUVlkQnlRS19REidDTjZrd0pMQjFlNENGVUhiY3dFZEJTb0x3UTE2MTI2MjMwOTg1NDY%3D",
+            "timestamp": 1612623099171085,
+            "time_text": "6:18",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 397.668,
+            "action_type": "add_chat_item",
+            "message": "@AG @Golden Myst helleww :red_heart:",
+            "emotes": [
+                {
+                    "id": "\u2764",
+                    "name": ":red_heart:",
+                    "shortcuts": [
+                        ":red_heart:",
+                        ":heart:",
+                        "<3"
+                    ],
+                    "search_terms": [
+                        "red",
+                        "heart"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u2764.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u2764.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNLS085YURCMWU0Q0ZYY1hyUVlkYnpVTzN3EhtDUFdxeWZyQTFlNENGWS1sV0FvZDd3VUctQTI%3D",
+            "timestamp": 1612623118157651,
+            "time_text": "6:37",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 407.268,
+            "action_type": "add_chat_item",
+            "message": "but song choice tumhara tha?",
+            "message_id": "CkUKGkNPcUh0YVhCMWU0Q0Zjd0RyUVlkQnlRS19REidDTjZrd0pMQjFlNENGVUhiY3dFZEJTb0x3UTE2MTI2MjMxMjY5OTA%3D",
+            "timestamp": 1612623127593998,
+            "time_text": "6:47",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 465.594,
+            "action_type": "add_chat_item",
+            "message": "ohkk send me tickets we will go to goa",
+            "message_id": "CkUKGkNPS3dtc0hCMWU0Q0ZYMGVyUVlkX2ZvTGNnEidDTjZrd0pMQjFlNENGVUhiY3dFZEJTb0x3UTE2MTI2MjMxODUyMDU%3D",
+            "timestamp": 1612623185877172,
+            "time_text": "7:45",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 480.835,
+            "action_type": "add_chat_item",
+            "message": "song chota tha.. LUL",
+            "message_id": "CjkKGkNNRzR5Y2pCMWU0Q0ZZQUhyUVlkXzlrTjlnEhtDUFdxeWZyQTFlNENGWS1sV0FvZDd3VUctQTU%3D",
+            "timestamp": 1612623201328231,
+            "time_text": "8:00",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 571.379,
+            "action_type": "add_chat_item",
+            "message": "woww that headshot though",
+            "message_id": "CkUKGkNJRGQ0ZlBCMWU0Q0ZYMGVyUVlkX2ZvTGNnEidDTjZrd0pMQjFlNENGVUhiY3dFZEJTb0x3UTE2MTI2MjMyOTEyODI%3D",
+            "timestamp": 1612623291903660,
+            "time_text": "9:31",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 624.383,
+            "action_type": "add_chat_item",
+            "message": "thank you sir :red_heart: ",
+            "emotes": [
+                {
+                    "id": "\u2764",
+                    "name": ":red_heart:",
+                    "shortcuts": [
+                        ":red_heart:",
+                        ":heart:",
+                        "<3"
+                    ],
+                    "search_terms": [
+                        "red",
+                        "heart"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u2764.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u2764.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNMZmJnWTNDMWU0Q0ZZQUhyUVlkXzlrTjlnEhtDUFdxeWZyQTFlNENGWS1sV0FvZDd3VUctQTY%3D",
+            "timestamp": 1612623344856533,
+            "time_text": "10:24",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 678.917,
+            "action_type": "add_chat_item",
+            "message": "everyone watching please like :thumbs_up:the stream",
+            "emotes": [
+                {
+                    "id": "\ud83d\udc4d",
+                    "name": ":thumbs_up:",
+                    "shortcuts": [
+                        ":thumbs_up:",
+                        ":+1:",
+                        ":thumbsup:",
+                        "(Y)",
+                        "(y)"
+                    ],
+                    "search_terms": [
+                        "thumbs",
+                        "up",
+                        "+1",
+                        "thumbsup"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f44d.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f44d.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CkUKGkNMSEJoS2ZDMWU0Q0ZmSU1mUW9ka1I4RF9BEidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjMzOTg3NzU%3D",
+            "timestamp": 1612623399428309,
+            "time_text": "11:18",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 685.46,
+            "action_type": "add_chat_item",
+            "message": "pip install discord se.. seedha bot nahi dal sakta kya?? :grinning_squinting_face: :grinning_squinting_face: ",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNLYUNrYXJDMWU0Q0ZVVU9yUVlkb3hBRWN3EhtDUFdxeWZyQTFlNENGWS1sV0FvZDd3VUctQTc%3D",
+            "timestamp": 1612623405924676,
+            "time_text": "11:25",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 735.718,
+            "action_type": "add_chat_item",
+            "message": "mujhe nhii pta kya hota yha pw",
+            "message_id": "CkUKGkNORFJnY0xDMWU0Q0Zld3JyUVlkWUdjSTZnEidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjM0NTUzOTg%3D",
+            "timestamp": 1612623456004337,
+            "time_text": "12:15",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 743.83,
+            "action_type": "add_chat_item",
+            "message": "@Golden Myst just software engineer things :grinning_squinting_face: ",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNQSGRfOFhDMWU0Q0ZVVU9yUVlkb3hBRWN3EhtDUFdxeWZyQTFlNENGWS1sV0FvZDd3VUctQTg%3D",
+            "timestamp": 1612623464361769,
+            "time_text": "12:23",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 857.61,
+            "action_type": "add_chat_item",
+            "message": "ohhh my stream is totally different",
+            "message_id": "CkUKGkNKakFudnpDMWU0Q0ZWWV9yUVlkY01JS2R3EidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjM1Nzc0OTg%3D",
+            "timestamp": 1612623578112082,
+            "time_text": "14:17",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 971.296,
+            "action_type": "add_chat_item",
+            "message": "dafaq balance",
+            "message_id": "CjoKGkNNcVhyTExEMWU0Q0ZWWV9yUVlkY01JS2R3EhxDUFdxeWZyQTFlNENGWS1sV0FvZDd3VUctQTEw",
+            "timestamp": 1612623691582465,
+            "time_text": "16:11",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 1038.946,
+            "action_type": "add_chat_item",
+            "message": "@Golden Myst are hume ni ata kuch..python toh chui bhi nahi kitne mahino se :grinning_squinting_face: ",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjoKGkNJQ2wwZExEMWU0Q0ZYMGVyUVlkX2ZvTGNnEhxDUFdxeWZyQTFlNENGWS1sV0FvZDd3VUctQTEx",
+            "timestamp": 1612623759299261,
+            "time_text": "17:18",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 1071.787,
+            "action_type": "add_chat_item",
+            "message": "kartik tumko bhii ata haii sab",
+            "message_id": "CkUKGkNOM1JxT0xEMWU0Q0ZYMGVyUVlkX2ZvTGNnEidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjM3OTE1Nzc%3D",
+            "timestamp": 1612623792187671,
+            "time_text": "17:51",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 1124.702,
+            "action_type": "add_chat_item",
+            "message": "OS padh ra me @AG parso mcq exam hai :grinning_squinting_face: ",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjoKGkNMX2V5X3ZEMWU0Q0ZiZ1VyUVlkbm9ZSjN3EhxDUFdxeWZyQTFlNENGWS1sV0FvZDd3VUctQTEz",
+            "timestamp": 1612623845191558,
+            "time_text": "18:44",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 1173.444,
+            "action_type": "add_chat_item",
+            "message": "operating system...scheduling/process and shit",
+            "message_id": "CjoKGkNPRDM2WkxFMWU0Q0Zld3JyUVlkWUdjSTZnEhxDUFdxeWZyQTFlNENGWS1sV0FvZDd3VUctQTE0",
+            "timestamp": 1612623893920802,
+            "time_text": "19:33",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 1242.785,
+            "action_type": "add_chat_item",
+            "message": "hehehehehhe",
+            "message_id": "CkUKGkNKU3U2TFBFMWU0Q0ZWWV9yUVlkY01JS2R3EidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjM5NjI1MTA%3D",
+            "timestamp": 1612623963101003,
+            "time_text": "20:42",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 1257.459,
+            "action_type": "add_chat_item",
+            "message": "are ache se likha karo directly likha karo",
+            "message_id": "CkUKGkNKemo4N3JFMWU0Q0ZYY1hyUVlkYnpVTzN3EidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjM5NzczODA%3D",
+            "timestamp": 1612623977968078,
+            "time_text": "20:57",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 1434.588,
+            "action_type": "add_chat_item",
+            "message": "bhoot dikh rhe kartik",
+            "message_id": "CkUKGkNKbkFwSV9GMWU0Q0ZmSU1mUW9ka1I4RF9BEidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjQxNTQzMjc%3D",
+            "timestamp": 1612624154927164,
+            "time_text": "23:54",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 1438.765,
+            "action_type": "add_chat_item",
+            "message": ":pleading_face::eyes:",
+            "emotes": [
+                {
+                    "id": "\ud83e\udd7a",
+                    "name": ":pleading_face:",
+                    "shortcuts": [
+                        ":pleading_face:"
+                    ],
+                    "search_terms": [
+                        "pleading",
+                        "face"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f97a.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f97a.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                },
+                {
+                    "id": "\ud83d\udc40",
+                    "name": ":eyes:",
+                    "shortcuts": [
+                        ":eyes:"
+                    ],
+                    "search_terms": [
+                        "eyes"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f440.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f440.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CkUKGkNPS05yWkhGMWU0Q0ZiZ1VyUVlkbm9ZSjN3EidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjQxNTg2MTk%3D",
+            "timestamp": 1612624159262489,
+            "time_text": "23:58",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 1482.438,
+            "action_type": "add_chat_item",
+            "message": "Juice WRLD is really a LEGEND",
+            "message_id": "CjoKGkNPdXNtS2JGMWU0Q0ZZQUhyUVlkXzlrTjlnEhxDUFdxeWZyQTFlNENGWS1sV0FvZDd3VUctQTE3",
+            "timestamp": 1612624202962572,
+            "time_text": "24:42",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 1498.617,
+            "action_type": "add_chat_item",
+            "message": "*was",
+            "message_id": "CjoKGkNQYVU4cTNGMWU0Q0ZjMHNyUVlkeDFJRlp3EhxDUFdxeWZyQTFlNENGWS1sV0FvZDd3VUctQTE4",
+            "timestamp": 1612624219114140,
+            "time_text": "24:58",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 1505.796,
+            "action_type": "add_chat_item",
+            "message": ":crying_face:",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude22",
+                    "name": ":crying_face:",
+                    "shortcuts": [
+                        ":crying_face:",
+                        ":cry:",
+                        ":'(",
+                        ":'-(",
+                        "='("
+                    ],
+                    "search_terms": [
+                        "crying",
+                        "face",
+                        "cry"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f622.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f622.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjoKGkNQckVvN0hGMWU0Q0ZmOHFyUVlkWXA0Q193EhxDUFdxeWZyQTFlNENGWS1sV0FvZDd3VUctQTE5",
+            "timestamp": 1612624226214561,
+            "time_text": "25:05",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 1569.423,
+            "action_type": "add_chat_item",
+            "message": "wow you listen to JOJI",
+            "message_id": "CjoKGkNJekZ5Y19GMWU0Q0ZjMHNyUVlkeDFJRlp3EhxDUFdxeWZyQTFlNENGWS1sV0FvZDd3VUctQTIw",
+            "timestamp": 1612624289751796,
+            "time_text": "26:09",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 1578.296,
+            "action_type": "add_chat_item",
+            "message": "i didnt know that",
+            "message_id": "CjoKGkNOSEs0OVBGMWU0Q0ZWWV9yUVlkY01JS2R3EhxDUFdxeWZyQTFlNENGWS1sV0FvZDd3VUctQTIx",
+            "timestamp": 1612624298567042,
+            "time_text": "26:18",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 1644.785,
+            "action_type": "add_chat_item",
+            "message": "yo",
+            "message_id": "CjkKGkNOUHJ5X1BGMWU0Q0ZmOHFyUVlkWXA0Q193EhtDSUhybXVfRjFlNENGVnJjY3dFZGdXRU9YQTA%3D",
+            "timestamp": 1612624365286900,
+            "time_text": "27:24",
+            "author": {
+                "name": "Wra1th",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/IKbrDW1bFoJMA4CcyqmoqiLUkpzx0A2vwJpYxkxZLg4fB4BZcYfIMFZ0XoInrFTqwIb0-JwF",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/IKbrDW1bFoJMA4CcyqmoqiLUkpzx0A2vwJpYxkxZLg4fB4BZcYfIMFZ0XoInrFTqwIb0-JwF=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/IKbrDW1bFoJMA4CcyqmoqiLUkpzx0A2vwJpYxkxZLg4fB4BZcYfIMFZ0XoInrFTqwIb0-JwF=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCWQ0VwuDP7fjvdZv3UjsiWg"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 1696.995,
+            "action_type": "add_chat_item",
+            "message": "what u making today",
+            "message_id": "CjkKGkNPRGx1WXpHMWU0Q0ZYMGVyUVlkX2ZvTGNnEhtDT19od2ZfRjFlNENGWVhEVEFJZF9CWUkxQTA%3D",
+            "timestamp": 1612624417420094,
+            "time_text": "28:16",
+            "author": {
+                "name": "Satyaki Das",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCZwNcGQ9GAOzrYOTNpNmh_w"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 1746.776,
+            "action_type": "add_chat_item",
+            "message": "nice",
+            "message_id": "CjkKGkNOS2tsNlRHMWU0Q0ZjMHNyUVlkeDFJRlp3EhtDT19od2ZfRjFlNENGWVhEVEFJZF9CWUkxQTE%3D",
+            "timestamp": 1612624467186303,
+            "time_text": "29:06",
+            "author": {
+                "name": "Satyaki Das",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-pgNknl6XnWEglh_oSA4FgcvQkAi9WUl-iaGNI21I=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCZwNcGQ9GAOzrYOTNpNmh_w"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 1985.443,
+            "action_type": "add_chat_item",
+            "message": "maii bhii hungry",
+            "message_id": "CkUKGkNPT0c5NVhIMWU0Q0ZmOHFyUVlkWXA0Q193EidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjQ3MDUxNjU%3D",
+            "timestamp": 1612624705733510,
+            "time_text": "33:05",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 2008.581,
+            "action_type": "add_chat_item",
+            "message": "change karo gana",
+            "message_id": "CkUKGkNNMy1ncUhIMWU0Q0Zld3JyUVlkWUdjSTZnEidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjQ3Mjg0MTA%3D",
+            "timestamp": 1612624728997749,
+            "time_text": "33:28",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 2013.756,
+            "action_type": "add_chat_item",
+            "message": "I don't like it",
+            "message_id": "CkUKGkNLYXF0cVBIMWU0Q0ZZQUhyUVlkXzlrTjlnEidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjQ3MzM0NjU%3D",
+            "timestamp": 1612624734033220,
+            "time_text": "33:33",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 2034.947,
+            "action_type": "add_chat_item",
+            "message": "no competition",
+            "message_id": "CkUKGkNJM2x5cTNIMWU0Q0Zjd0RyUVlkQnlRS19REidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjQ3NTQ3MzU%3D",
+            "timestamp": 1612624755339986,
+            "time_text": "33:54",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 2040.481,
+            "action_type": "add_chat_item",
+            "message": "if you can",
+            "message_id": "CkUKGkNJcU9sN0RIMWU0Q0ZWZ01yUVlkaXlzR1lnEidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjQ3NjAxOTk%3D",
+            "timestamp": 1612624760784693,
+            "time_text": "34:00",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 2209.964,
+            "action_type": "add_chat_item",
+            "message": "ring ring",
+            "message_id": "CjkKGkNKdkNoWUhJMWU0Q0ZZQUhyUVlkXzlrTjlnEhtDSUhybXVfRjFlNENGVnJjY3dFZGdXRU9YQTI%3D",
+            "timestamp": 1612624930365761,
+            "time_text": "36:49",
+            "author": {
+                "name": "Wra1th",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/IKbrDW1bFoJMA4CcyqmoqiLUkpzx0A2vwJpYxkxZLg4fB4BZcYfIMFZ0XoInrFTqwIb0-JwF",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/IKbrDW1bFoJMA4CcyqmoqiLUkpzx0A2vwJpYxkxZLg4fB4BZcYfIMFZ0XoInrFTqwIb0-JwF=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/IKbrDW1bFoJMA4CcyqmoqiLUkpzx0A2vwJpYxkxZLg4fB4BZcYfIMFZ0XoInrFTqwIb0-JwF=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCWQ0VwuDP7fjvdZv3UjsiWg"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 2463.945,
+            "action_type": "add_chat_item",
+            "message": "see my choice of songs is good",
+            "message_id": "CkUKGkNLcjhqZnJJMWU0Q0ZWWV9yUVlkY01JS2R3EidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjUxODM2MzM%3D",
+            "timestamp": 1612625184259688,
+            "time_text": "41:03",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 2615.747,
+            "action_type": "add_chat_item",
+            "message": "aaj off hone wala tha :grinning_face_with_sweat:",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude05",
+                    "name": ":grinning_face_with_sweat:",
+                    "shortcuts": [
+                        ":grinning_face_with_sweat:",
+                        ":sweat_smile:"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "face",
+                        "with",
+                        "sweat",
+                        "smile"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f605.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f605.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CkUKGkNQdnZ6TUxKMWU0Q0ZYY1hyUVlkYnpVTzN3EidDUFhqZ0tmSjFlNENGZEtVY0FvZEk0a0JKQTE2MTI2MjUzMzQ4MDk%3D",
+            "timestamp": 1612625336285215,
+            "time_text": "43:35",
+            "author": {
+                "name": "Itx_sa3m",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/9uvw1Xj4MxjxEmYKDkABuhsOIs_kxsOZ9Y9pKlo1hMDx5CfJHH9USJ36wk269hJIMDK-3vMp",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/9uvw1Xj4MxjxEmYKDkABuhsOIs_kxsOZ9Y9pKlo1hMDx5CfJHH9USJ36wk269hJIMDK-3vMp=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/9uvw1Xj4MxjxEmYKDkABuhsOIs_kxsOZ9Y9pKlo1hMDx5CfJHH9USJ36wk269hJIMDK-3vMp=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UC-IkUPPdO_Oj1gC2SLpM41w"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 2665.814,
+            "action_type": "add_chat_item",
+            "message": "@VS :eye::mouth::eye:",
+            "emotes": [
+                {
+                    "id": "\ud83d\udc41",
+                    "name": ":eye:",
+                    "shortcuts": [
+                        ":eye:"
+                    ],
+                    "search_terms": [
+                        "eye"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f441.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f441.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                },
+                {
+                    "id": "\ud83d\udc44",
+                    "name": ":mouth:",
+                    "shortcuts": [
+                        ":mouth:",
+                        ":lips:"
+                    ],
+                    "search_terms": [
+                        "mouth",
+                        "lips"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f444.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f444.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CkUKGkNQTHFzTnJKMWU0Q0ZmOHFyUVlkWXA0Q193EidDUEhDMWNqSjFlNENGYTJ1WXdZZHo2OE1KQTE2MTI2MjUzMzExMDA%3D",
+            "timestamp": 1612625386157467,
+            "time_text": "44:25",
+            "author": {
+                "name": "Sanskriti",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-83k3VBkkfDpQbWOtjyPSj1ObUiRe4_lxKrwMFOw",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-83k3VBkkfDpQbWOtjyPSj1ObUiRe4_lxKrwMFOw=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-83k3VBkkfDpQbWOtjyPSj1ObUiRe4_lxKrwMFOw=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UC70pycO86b84tDtI4JSjEKA"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 2680.504,
+            "action_type": "add_chat_item",
+            "message": "Ha swagat toh krna hi nai hota",
+            "message_id": "CkUKGkNMNy10LUhKMWU0Q0Zjd0RyUVlkQnlRS19REidDUEhDMWNqSjFlNENGYTJ1WXdZZHo2OE1KQTE2MTI2MjUzNDU4OTg%3D",
+            "timestamp": 1612625400954722,
+            "time_text": "44:40",
+            "author": {
+                "name": "Sanskriti",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-83k3VBkkfDpQbWOtjyPSj1ObUiRe4_lxKrwMFOw",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-83k3VBkkfDpQbWOtjyPSj1ObUiRe4_lxKrwMFOw=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-83k3VBkkfDpQbWOtjyPSj1ObUiRe4_lxKrwMFOw=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UC70pycO86b84tDtI4JSjEKA"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 3073.633,
+            "action_type": "add_chat_item",
+            "message": "kyu",
+            "message_id": "CkUKGkNLMm84NXpMMWU0Q0ZVVU9yUVlkb3hBRWN3EidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjU3OTM0OTc%3D",
+            "timestamp": 1612625794094193,
+            "time_text": "51:13",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 3077.784,
+            "action_type": "add_chat_item",
+            "message": "sar dard",
+            "message_id": "CkUKGkNMbmUtNTdMMWU0Q0ZYMGVyUVlkX2ZvTGNnEidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjU3OTc1OTE%3D",
+            "timestamp": 1612625798426476,
+            "time_text": "51:17",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 3081.996,
+            "action_type": "add_chat_item",
+            "message": "byeeee",
+            "message_id": "CkUKGkNMTGk3YURMMWU0Q0ZYMGVyUVlkX2ZvTGNnEidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjU4MDE3OTI%3D",
+            "timestamp": 1612625802391902,
+            "time_text": "51:21",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 3087.931,
+            "action_type": "add_chat_item",
+            "message": "take care",
+            "message_id": "CkUKGkNPWE8wNlBMMWU0Q0ZVVU9yUVlkb3hBRWN3EidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjU4MDc2Njk%3D",
+            "timestamp": 1612625808254861,
+            "time_text": "51:27",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 3105.919,
+            "action_type": "add_chat_item",
+            "message": "muaaahhh byees",
+            "message_id": "CkUKGkNOLU1yNnpMMWU0Q0Zld3JyUVlkWUdjSTZnEidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjU4MjU5NTQ%3D",
+            "timestamp": 1612625826530946,
+            "time_text": "51:45",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 3130.301,
+            "action_type": "add_chat_item",
+            "message": ":red_heart: ",
+            "emotes": [
+                {
+                    "id": "\u2764",
+                    "name": ":red_heart:",
+                    "shortcuts": [
+                        ":red_heart:",
+                        ":heart:",
+                        "<3"
+                    ],
+                    "search_terms": [
+                        "red",
+                        "heart"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u2764.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u2764.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNQTzEtTGZMMWU0Q0Zld3JyUVlkWUdjSTZnEhtDTzZjd1BlXzFlNENGVEFadHdBZDN6RU1OUTA%3D",
+            "timestamp": 1612625850800914,
+            "time_text": "52:10",
+            "author": {
+                "name": "Suraj",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/_iLgg5EI3iVojMLHoQh4RH3kTzIYJlLXPLKMpJMBsvEphdEbPyJjNLS9ijpalxQBWa5qV6vT0bQ",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/_iLgg5EI3iVojMLHoQh4RH3kTzIYJlLXPLKMpJMBsvEphdEbPyJjNLS9ijpalxQBWa5qV6vT0bQ=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/_iLgg5EI3iVojMLHoQh4RH3kTzIYJlLXPLKMpJMBsvEphdEbPyJjNLS9ijpalxQBWa5qV6vT0bQ=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Owner",
+                        "icon_name": "owner"
+                    }
+                ],
+                "id": "UCbZZmB8L3IEHutGbvpWo9Ow"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 3144.782,
+            "action_type": "add_chat_item",
+            "message": ":smiling_face_with_hearts::face_blowing_a_kiss:",
+            "emotes": [
+                {
+                    "id": "\ud83e\udd70",
+                    "name": ":smiling_face_with_hearts:",
+                    "shortcuts": [
+                        ":smiling_face_with_hearts:"
+                    ],
+                    "search_terms": [
+                        "smiling",
+                        "face",
+                        "with",
+                        "hearts"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f970.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f970.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                },
+                {
+                    "id": "\ud83d\ude18",
+                    "name": ":face_blowing_a_kiss:",
+                    "shortcuts": [
+                        ":face_blowing_a_kiss:",
+                        ":kissing_heart:",
+                        ";*",
+                        ";-*"
+                    ],
+                    "search_terms": [
+                        "face",
+                        "blowing",
+                        "a",
+                        "kiss",
+                        "kissing",
+                        "heart"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f618.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f618.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CkUKGkNKbXY2NzdMMWU0Q0ZZQUhyUVlkXzlrTjlnEidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjU4NjQ2Nzg%3D",
+            "timestamp": 1612625865267148,
+            "time_text": "52:24",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 3154.746,
+            "action_type": "add_chat_item",
+            "message": "wtf :face_with_rolling_eyes::face_with_rolling_eyes:",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude44",
+                    "name": ":face_with_rolling_eyes:",
+                    "shortcuts": [
+                        ":face_with_rolling_eyes:"
+                    ],
+                    "search_terms": [
+                        "face",
+                        "with",
+                        "rolling",
+                        "eyes"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f644.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f644.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CkUKGkNKVE91OFBMMWU0Q0ZZQUhyUVlkXzlrTjlnEidDSS1keGJ2TDFlNENGUTFpYUFvZDdGMEphQTE2MTI2MjU4NzMwMjU%3D",
+            "timestamp": 1612625874970418,
+            "time_text": "52:34",
+            "author": {
+                "name": "Itx_sa3m",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/9uvw1Xj4MxjxEmYKDkABuhsOIs_kxsOZ9Y9pKlo1hMDx5CfJHH9USJ36wk269hJIMDK-3vMp",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/9uvw1Xj4MxjxEmYKDkABuhsOIs_kxsOZ9Y9pKlo1hMDx5CfJHH9USJ36wk269hJIMDK-3vMp=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/9uvw1Xj4MxjxEmYKDkABuhsOIs_kxsOZ9Y9pKlo1hMDx5CfJHH9USJ36wk269hJIMDK-3vMp=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UC-IkUPPdO_Oj1gC2SLpM41w"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 3170.466,
+            "action_type": "add_chat_item",
+            "message": "what",
+            "message_id": "CkUKGkNJYVBqY3ZMMWU0Q0ZmSU1mUW9ka1I4RF9BEidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjU4OTAzODQ%3D",
+            "timestamp": 1612625890985910,
+            "time_text": "52:50",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 3176.631,
+            "action_type": "add_chat_item",
+            "message": ":grinning_face_with_smiling_eyes::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::face_with_tears_of_joy::face_with_tears_of_joy:",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude04",
+                    "name": ":grinning_face_with_smiling_eyes:",
+                    "shortcuts": [
+                        ":grinning_face_with_smiling_eyes:",
+                        ":smile:"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "face",
+                        "with",
+                        "smiling",
+                        "eyes",
+                        "smile"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f604.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f604.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                },
+                {
+                    "id": "\ud83e\udd23",
+                    "name": ":rolling_on_the_floor_laughing:",
+                    "shortcuts": [
+                        ":rolling_on_the_floor_laughing:"
+                    ],
+                    "search_terms": [
+                        "rolling",
+                        "on",
+                        "the",
+                        "floor",
+                        "laughing"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f923.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f923.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                },
+                {
+                    "id": "\ud83d\ude02",
+                    "name": ":face_with_tears_of_joy:",
+                    "shortcuts": [
+                        ":face_with_tears_of_joy:",
+                        ":joy:"
+                    ],
+                    "search_terms": [
+                        "face",
+                        "with",
+                        "tears",
+                        "of",
+                        "joy"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f602.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f602.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CkUKGkNNenFfYzNMMWU0Q0ZWWV9yUVlkY01JS2R3EidDTmJHakpfQzFlNENGUXJEYUFvZG54d0hkQTE2MTI2MjU4OTY0MzU%3D",
+            "timestamp": 1612625897027107,
+            "time_text": "52:56",
+            "author": {
+                "name": "profession_se_doctor",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/8afYxJOgiRlG3U5L01Y3vSM0fg-Mk5t5U9jyRZv8M7Zfl9GzHXleofxMTD7wuEv0cFQdOvoF3g=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UC26iCMRnRwgp4eEQTFXKY5Q"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 3195.734,
+            "action_type": "add_chat_item",
+            "message": "shuru hone se pheke khtm",
+            "message_id": "CkUKGkNNaXZtTmZMMWU0Q0ZmOHFyUVlkWXA0Q193EidDSS1keGJ2TDFlNENGUTFpYUFvZDdGMEphQTE2MTI2MjU5MTQ3Mzc%3D",
+            "timestamp": 1612625916336103,
+            "time_text": "53:15",
+            "author": {
+                "name": "Itx_sa3m",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/9uvw1Xj4MxjxEmYKDkABuhsOIs_kxsOZ9Y9pKlo1hMDx5CfJHH9USJ36wk269hJIMDK-3vMp",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/9uvw1Xj4MxjxEmYKDkABuhsOIs_kxsOZ9Y9pKlo1hMDx5CfJHH9USJ36wk269hJIMDK-3vMp=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/9uvw1Xj4MxjxEmYKDkABuhsOIs_kxsOZ9Y9pKlo1hMDx5CfJHH9USJ36wk269hJIMDK-3vMp=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UC-IkUPPdO_Oj1gC2SLpM41w"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 3204.425,
+            "action_type": "add_chat_item",
+            "message": "phele*",
+            "message_id": "CkUKGkNQSExudHZMMWU0Q0ZmSU1mUW9ka1I4RF9BEidDSS1keGJ2TDFlNENGUTFpYUFvZDdGMEphQTE2MTI2MjU5MjMyNDI%3D",
+            "timestamp": 1612625924826653,
+            "time_text": "53:24",
+            "author": {
+                "name": "Itx_sa3m",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/9uvw1Xj4MxjxEmYKDkABuhsOIs_kxsOZ9Y9pKlo1hMDx5CfJHH9USJ36wk269hJIMDK-3vMp",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/9uvw1Xj4MxjxEmYKDkABuhsOIs_kxsOZ9Y9pKlo1hMDx5CfJHH9USJ36wk269hJIMDK-3vMp=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/9uvw1Xj4MxjxEmYKDkABuhsOIs_kxsOZ9Y9pKlo1hMDx5CfJHH9USJ36wk269hJIMDK-3vMp=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UC-IkUPPdO_Oj1gC2SLpM41w"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 3207.845,
+            "action_type": "add_chat_item",
+            "message": ":eyes:",
+            "emotes": [
+                {
+                    "id": "\ud83d\udc40",
+                    "name": ":eyes:",
+                    "shortcuts": [
+                        ":eyes:"
+                    ],
+                    "search_terms": [
+                        "eyes"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f440.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f440.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNOdlg5OXpMMWU0Q0ZiZ1VyUVlkbm9ZSjN3EhtDTzZjd1BlXzFlNENGVEFadHdBZDN6RU1OUTI%3D",
+            "timestamp": 1612625928383500,
+            "time_text": "53:27",
+            "author": {
+                "name": "Suraj",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/_iLgg5EI3iVojMLHoQh4RH3kTzIYJlLXPLKMpJMBsvEphdEbPyJjNLS9ijpalxQBWa5qV6vT0bQ",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/_iLgg5EI3iVojMLHoQh4RH3kTzIYJlLXPLKMpJMBsvEphdEbPyJjNLS9ijpalxQBWa5qV6vT0bQ=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/_iLgg5EI3iVojMLHoQh4RH3kTzIYJlLXPLKMpJMBsvEphdEbPyJjNLS9ijpalxQBWa5qV6vT0bQ=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Owner",
+                        "icon_name": "owner"
+                    }
+                ],
+                "id": "UCbZZmB8L3IEHutGbvpWo9Ow"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        },
+        {
+            "time_in_seconds": 3250.754,
+            "action_type": "add_chat_item",
+            "message": "take care :thumbs_up:",
+            "emotes": [
+                {
+                    "id": "\ud83d\udc4d",
+                    "name": ":thumbs_up:",
+                    "shortcuts": [
+                        ":thumbs_up:",
+                        ":+1:",
+                        ":thumbsup:",
+                        "(Y)",
+                        "(y)"
+                    ],
+                    "search_terms": [
+                        "thumbs",
+                        "up",
+                        "+1",
+                        "thumbsup"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f44d.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f44d.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CkUKGkNMX0R0dkhMMWU0Q0Zld3JyUVlkWUdjSTZnEidDSS1keGJ2TDFlNENGUTFpYUFvZDdGMEphQTE2MTI2MjU5Njk4NTU%3D",
+            "timestamp": 1612625971356131,
+            "time_text": "54:10",
+            "author": {
+                "name": "Itx_sa3m",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/9uvw1Xj4MxjxEmYKDkABuhsOIs_kxsOZ9Y9pKlo1hMDx5CfJHH9USJ36wk269hJIMDK-3vMp",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/9uvw1Xj4MxjxEmYKDkABuhsOIs_kxsOZ9Y9pKlo1hMDx5CfJHH9USJ36wk269hJIMDK-3vMp=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/9uvw1Xj4MxjxEmYKDkABuhsOIs_kxsOZ9Y9pKlo1hMDx5CfJHH9USJ36wk269hJIMDK-3vMp=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UC-IkUPPdO_Oj1gC2SLpM41w"
+            },
+            "message_type": "text_message",
+            "vid": "NZ5ozLGlRsk"
+        }
+    ]
+}

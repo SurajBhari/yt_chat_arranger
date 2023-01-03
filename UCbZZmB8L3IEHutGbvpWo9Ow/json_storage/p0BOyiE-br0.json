@@ -1,0 +1,1927 @@
+{
+    "messages": [
+        {
+            "time_in_seconds": 10.528,
+            "action_type": "add_chat_item",
+            "message": "StreamElements bot running :robot:",
+            "emotes": [
+                {
+                    "id": "\ud83e\udd16",
+                    "name": ":robot:",
+                    "shortcuts": [
+                        ":robot:",
+                        ":robot_face:"
+                    ],
+                    "search_terms": [
+                        "robot",
+                        "face"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f916.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f916.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "ChwKGkNJQ09qdERDMy00Q0ZZMm13UW9kRHBRUDlB",
+            "timestamp": 1612967082952514,
+            "time_text": "0:10",
+            "author": {
+                "name": "StreamElements",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/x8sAVmPAwu6AZcosGKgh4JfEoSUwJ6cILYCtEbKMOpmuJxsoD0XS0V6nn7COTDUCm7fDq2Cr",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/x8sAVmPAwu6AZcosGKgh4JfEoSUwJ6cILYCtEbKMOpmuJxsoD0XS0V6nn7COTDUCm7fDq2Cr=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/x8sAVmPAwu6AZcosGKgh4JfEoSUwJ6cILYCtEbKMOpmuJxsoD0XS0V6nn7COTDUCm7fDq2Cr=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Verified",
+                        "icon_name": "verified"
+                    },
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCjerlCIbLPQwSnYlClkjDXg"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 215.628,
+            "action_type": "add_chat_item",
+            "message": "omg epic podcast yay",
+            "message_id": "CjkKGkNNYm9sYkhEMy00Q0Zld3JyUVlkVFh3R0lnEhtDT1g5Z1pERDMtNENGVExEY3dFZHpLZ0ktQTI%3D",
+            "timestamp": 1612967286502499,
+            "time_text": "3:35",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 445.859,
+            "action_type": "add_chat_item",
+            "message": "kya karoge aaj ke strem me 0.o",
+            "message_id": "CjkKGkNJeXMtcDdFMy00Q0ZjOFFyUVlkVWI4RWJnEhtDT1g5Z1pERDMtNENGVExEY3dFZHpLZ0ktQTQ%3D",
+            "timestamp": 1612967516739130,
+            "time_text": "7:25",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 478.989,
+            "action_type": "add_chat_item",
+            "message": "interesting hobbies...",
+            "message_id": "CjkKGkNNbTMyYTdFMy00Q0ZUOHNyUVlkb0tjS1lBEhtDT1g5Z1pERDMtNENGVExEY3dFZHpLZ0ktQTU%3D",
+            "timestamp": 1612967549754352,
+            "time_text": "7:58",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 544.597,
+            "action_type": "add_chat_item",
+            "message": "o _ o",
+            "message_id": "CjkKGkNJTFVpYzdFMy00Q0ZmSU1mUW9kRGRNRS1BEhtDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzM%3D",
+            "timestamp": 1612967615556141,
+            "time_text": "9:04",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 548.981,
+            "action_type": "add_chat_item",
+            "message": "paise first ya stream first",
+            "message_id": "CjkKGkNJZW9qTkRFMy00Q0ZhRUZmUW9kZ2k4SlJBEhtDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzQ%3D",
+            "timestamp": 1612967619793979,
+            "time_text": "9:08",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 585.348,
+            "action_type": "add_chat_item",
+            "message": "i am under 18, police bula rha",
+            "message_id": "CjkKGkNKYVh1ZUhFMy00Q0ZWd0JyUVlkd1VrTVdBEhtDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzY%3D",
+            "timestamp": 1612967656180682,
+            "time_text": "9:45",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 851.637,
+            "action_type": "add_chat_item",
+            "message": "f",
+            "message_id": "CjkKGkNJZl92dURGMy00Q0ZWWV9yUVlkeVQ0UGNnEhtDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzc%3D",
+            "timestamp": 1612967922614225,
+            "time_text": "14:11",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 872.444,
+            "action_type": "add_chat_item",
+            "message": "love you",
+            "message_id": "CjkKGkNKbjB0T3JGMy00Q0ZVVU9yUVlkZ1VFRHNREhtDTVdPOWNMRjMtNENGV3ItT0FZZDY4SUliZzA%3D",
+            "timestamp": 1612967943420505,
+            "time_text": "14:32",
+            "author": {
+                "name": "NADEKING",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCsmU0gjDt6EDMnTDqr4My7A"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 885.692,
+            "action_type": "add_chat_item",
+            "message": "harami :grinning_squinting_face: recent fav",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjkKGkNOVEE0X0RGMy00Q0ZUOHNyUVlkb0tjS1lBEhtDTVdPOWNMRjMtNENGV3ItT0FZZDY4SUliZzM%3D",
+            "timestamp": 1612967956766840,
+            "time_text": "14:45",
+            "author": {
+                "name": "NADEKING",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCsmU0gjDt6EDMnTDqr4My7A"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 915.889,
+            "action_type": "add_chat_item",
+            "message": "aji hn drummer",
+            "message_id": "CjkKGkNPYTVsX19GMy00Q0ZTVUhyUVlkdmFzSjFnEhtDTVdPOWNMRjMtNENGV3ItT0FZZDY4SUliZzQ%3D",
+            "timestamp": 1612967986978061,
+            "time_text": "15:15",
+            "author": {
+                "name": "NADEKING",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCsmU0gjDt6EDMnTDqr4My7A"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 925.656,
+            "action_type": "add_chat_item",
+            "message": "ho*",
+            "message_id": "CjkKGkNNYmg0SVBHMy00Q0ZhRUZmUW9kZ2k4SlJBEhtDTVdPOWNMRjMtNENGV3ItT0FZZDY4SUliZzY%3D",
+            "timestamp": 1612967996567785,
+            "time_text": "15:25",
+            "author": {
+                "name": "NADEKING",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCsmU0gjDt6EDMnTDqr4My7A"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 931.784,
+            "action_type": "add_chat_item",
+            "message": "o.0",
+            "message_id": "CjkKGkNLX2YxSWJHMy00Q0ZYY1hyUVlkaXZrSU1BEhtDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzk%3D",
+            "timestamp": 1612968002662360,
+            "time_text": "15:31",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 943.943,
+            "action_type": "add_chat_item",
+            "message": "-play khudi the local train",
+            "message_id": "CjkKGkNKYkJ1NHpHMy00Q0ZUOHNyUVlkb0tjS1lBEhtDTVdPOWNMRjMtNENGV3ItT0FZZDY4SUliZzg%3D",
+            "timestamp": 1612968014831807,
+            "time_text": "15:43",
+            "author": {
+                "name": "NADEKING",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCsmU0gjDt6EDMnTDqr4My7A"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 961.294,
+            "action_type": "add_chat_item",
+            "message": ":strawberry:",
+            "emotes": [
+                {
+                    "id": "\ud83c\udf53",
+                    "name": ":strawberry:",
+                    "shortcuts": [
+                        ":strawberry:"
+                    ],
+                    "search_terms": [
+                        "strawberry"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f353.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f353.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjoKGkNPenAycFRHMy00Q0ZmOHFyUVlkOHNvRWN3EhxDTVdPOWNMRjMtNENGV3ItT0FZZDY4SUliZzEw",
+            "timestamp": 1612968032122133,
+            "time_text": "16:01",
+            "author": {
+                "name": "NADEKING",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-_0nNTYkuegugFRrct7HGoVbpGZNYPLEbJWO9Oog=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCsmU0gjDt6EDMnTDqr4My7A"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 966.642,
+            "action_type": "add_chat_item",
+            "message": "ye kya ho rha",
+            "message_id": "CjoKGkNJZmNuSmZHMy00Q0ZWd0JyUVlkd1VrTVdBEhxDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzEw",
+            "timestamp": 1612968037396019,
+            "time_text": "16:06",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 994.9,
+            "action_type": "add_chat_item",
+            "message": "y launching untrusted",
+            "message_id": "CjoKGkNKYVgzcVRHMy00Q0ZVVU9yUVlkZ1VFRHNREhxDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzEy",
+            "timestamp": 1612968065731517,
+            "time_text": "16:34",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1006.66,
+            "action_type": "add_chat_item",
+            "message": "nadeking kaha gya vc se ?",
+            "message_id": "CkUKGkNOM0xxNnJHMy00Q0ZhRUZmUW9kZ2k4SlJBEidDSlgydjZMRzMtNENGWTB5dHdBZGJFa1BYZzE2MTI5NjgwNzgyNDc%3D",
+            "timestamp": 1612968077485569,
+            "time_text": "16:46",
+            "author": {
+                "name": "Aman sehgal",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_vF6kTNMu16F_r5XWwT-8leuXpC4wTfohU7BzE",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_vF6kTNMu16F_r5XWwT-8leuXpC4wTfohU7BzE=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_vF6kTNMu16F_r5XWwT-8leuXpC4wTfohU7BzE=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UColOwMIK9HNYMUpb7hnysnA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1012.767,
+            "action_type": "add_chat_item",
+            "message": "use Window Cap",
+            "message_id": "CjoKGkNPQ1duYTNHMy00Q0ZWd0JyUVlkd1VrTVdBEhxDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzEz",
+            "timestamp": 1612968083540883,
+            "time_text": "16:52",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1031.825,
+            "action_type": "add_chat_item",
+            "message": "sir raid",
+            "message_id": "CkUKGkNNZU5zYmJHMy00Q0ZVVU9yUVlkZ1VFRHNREidDSmpkMWJQRzMtNENGYWtHdHdBZDdiZ0E4QTE2MTI5NjgxMDM1Mzc%3D",
+            "timestamp": 1612968102741758,
+            "time_text": "17:11",
+            "author": {
+                "name": "Aman sehgal",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_vF6kTNMu16F_r5XWwT-8leuXpC4wTfohU7BzE",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_vF6kTNMu16F_r5XWwT-8leuXpC4wTfohU7BzE=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_vF6kTNMu16F_r5XWwT-8leuXpC4wTfohU7BzE=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UColOwMIK9HNYMUpb7hnysnA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1039.446,
+            "action_type": "add_chat_item",
+            "message": "here is solution:",
+            "message_id": "CjoKGkNJV3hnTHJHMy00Q0Zld3JyUVlkVFh3R0lnEhxDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzE1",
+            "timestamp": 1612968110332071,
+            "time_text": "17:19",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1062.501,
+            "action_type": "add_chat_item",
+            "message": "cpu ?",
+            "message_id": "CkUKGkNOUFZnTVhHMy00Q0ZmOHFyUVlkOHNvRWN3EidDTW5ELU1MRzMtNENGVEQwT0FZZElMRU1OQTE2MTI5NjgxMzQxNzg%3D",
+            "timestamp": 1612968133405435,
+            "time_text": "17:42",
+            "author": {
+                "name": "Aman sehgal",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_vF6kTNMu16F_r5XWwT-8leuXpC4wTfohU7BzE",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_vF6kTNMu16F_r5XWwT-8leuXpC4wTfohU7BzE=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_vF6kTNMu16F_r5XWwT-8leuXpC4wTfohU7BzE=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UColOwMIK9HNYMUpb7hnysnA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1209.618,
+            "action_type": "add_chat_item",
+            "message": "mac 10 + w ",
+            "message_id": "CjoKGkNMbjRqSXZIMy00Q0ZTVUhyUVlkdmFzSjFnEhxDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzE4",
+            "timestamp": 1612968280407140,
+            "time_text": "20:09",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1250.288,
+            "action_type": "add_chat_item",
+            "message": "i used to use this cross",
+            "message_id": "CjoKGkNNcUh3NTdIMy00Q0ZmOHFyUVlkOHNvRWN3EhxDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzIy",
+            "timestamp": 1612968321139707,
+            "time_text": "20:50",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1253.893,
+            "action_type": "add_chat_item",
+            "message": "pretty gud",
+            "message_id": "CjoKGkNKcklyNkRIMy00Q0ZUOHNyUVlkb0tjS1lBEhxDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzIz",
+            "timestamp": 1612968325014645,
+            "time_text": "20:53",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1288.722,
+            "action_type": "add_chat_item",
+            "message": "g3sg1",
+            "message_id": "CjoKGkNQZnM1ckRIMy00Q0ZYY1hyUVlkaXZrSU1BEhxDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzI0",
+            "timestamp": 1612968359474847,
+            "time_text": "21:28",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1365.345,
+            "action_type": "add_chat_item",
+            "message": "g3sg1",
+            "message_id": "CjoKGkNMell1OVhIMy00Q0ZmOHFyUVlkOHNvRWN3EhxDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzI1",
+            "timestamp": 1612968436362382,
+            "time_text": "22:45",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1401.643,
+            "action_type": "add_chat_item",
+            "message": "semi-one way hai unke i think",
+            "message_id": "CjoKGkNPYnkwLWJIMy00Q0ZjOFFyUVlkVWI4RWJnEhxDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzI2",
+            "timestamp": 1612968472410509,
+            "time_text": "23:21",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1502.616,
+            "action_type": "add_chat_item",
+            "message": ":grinning_squinting_face:",
+            "emotes": [
+                {
+                    "id": "\ud83d\ude06",
+                    "name": ":grinning_squinting_face:",
+                    "shortcuts": [
+                        ":grinning_squinting_face:",
+                        ":laughing:",
+                        ":satisfied:",
+                        "XD"
+                    ],
+                    "search_terms": [
+                        "grinning",
+                        "squinting",
+                        "face",
+                        "laughing",
+                        "satisfied"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f606.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CjoKGkNKdVMyNWJJMy00Q0ZmSU1mUW9kRGRNRS1BEhxDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzMw",
+            "timestamp": 1612968573192629,
+            "time_text": "25:02",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1519.613,
+            "action_type": "add_chat_item",
+            "message": "dw u arent alone",
+            "message_id": "CjoKGkNOcmdpWl9JMy00Q0ZUOHNyUVlkb0tjS1lBEhxDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzM0",
+            "timestamp": 1612968590733442,
+            "time_text": "25:19",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1584.844,
+            "action_type": "add_chat_item",
+            "message": "epic case opening",
+            "message_id": "CjoKGkNJcjZqNzdJMy00Q0ZUOHNyUVlkb0tjS1lBEhxDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzM2",
+            "timestamp": 1612968655846731,
+            "time_text": "26:24",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1596.627,
+            "action_type": "add_chat_item",
+            "message": "put this in thumbnail wiht shocked face and 2 arrows and a circle",
+            "message_id": "CjoKGkNMWFUxTVBJMy00Q0ZYY1hyUVlkaXZrSU1BEhxDSXZjb0xURTMtNENGUWhXandvZEs4QUVOdzM3",
+            "timestamp": 1612968667458152,
+            "time_text": "26:36",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1742.493,
+            "action_type": "add_chat_item",
+            "message": "u r like Elon Musk now",
+            "message_id": "CkUKGkNNRE5sNG5KMy00Q0ZSRVhmUW9kUlNZTmtBEidDSWpxNl9qSTMtNENGU2I2T0FZZGlQc0FXZzE2MTI5Njg4MTI4Nzc%3D",
+            "timestamp": 1612968813258471,
+            "time_text": "29:02",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1818.662,
+            "action_type": "add_chat_item",
+            "message": "kal mera match hai, gib tip, hosting a fun lil tourna",
+            "message_id": "CkUKGkNONm14NjNKMy00Q0ZjOFFyUVlkVWI4RWJnEidDT0RMMW92SjMtNENGWXo0T0FZZEpLQURRQTE2MTI5Njg4ODkyODQ%3D",
+            "timestamp": 1612968889537472,
+            "time_text": "30:18",
+            "author": {
+                "name": "RuN BoosT",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu_kZKDl-8XkO9-rGwyiwoKjfTET9Dl-8eSDGkFCTg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCQQtHQLBu-ntWGHzGBwRpkA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 1854.708,
+            "action_type": "add_chat_item",
+            "message": "hmmmmmm",
+            "message_id": "CjkKGkNMSzg0YjdKMy00Q0Zld3JyUVlkVFh3R0lnEhtDUDdzMGJqSjMtNENGYzBFdHdBZDZfd0QtQTA%3D",
+            "timestamp": 1612968925617759,
+            "time_text": "30:54",
+            "author": {
+                "name": "Kartik Mehra",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-LjTvi8u59jkBVKkOooB1GuoAu21CA0TavUi_rvg=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCoRM1DMJUA8aP26PNJyMoPA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 4437.892,
+            "action_type": "add_chat_item",
+            "message": "we played opponents",
+            "message_id": "CkUKGkNJUHR4bzdUMy00Q0ZWd0JyUVlkd1VrTVdBEidDTzNDaF83UzMtNENGWV9vY3dFZGw2b0M3QTE2MTI5NzE1MDUyNDc%3D",
+            "timestamp": 1612971508872894,
+            "time_text": "1:13:57",
+            "author": {
+                "name": "sandeep madhusudan sahoo",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCvSdMjzMGXmMn2IJ2-wegFA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 4455.368,
+            "action_type": "add_chat_item",
+            "message": "krishna Kaioken",
+            "message_id": "CkUKGkNNMkgtWmJUMy00Q0ZWd0JyUVlkd1VrTVdBEidDTzNDaF83UzMtNENGWV9vY3dFZGw2b0M3QTE2MTI5NzE1MjI4MTk%3D",
+            "timestamp": 1612971526472716,
+            "time_text": "1:14:15",
+            "author": {
+                "name": "sandeep madhusudan sahoo",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCvSdMjzMGXmMn2IJ2-wegFA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 4486.874,
+            "action_type": "add_chat_item",
+            "message": "you had opponents named Ron and DON",
+            "message_id": "CkUKGkNOU1M5YVhUMy00Q0Zld3JyUVlkVFh3R0lnEidDTzNDaF83UzMtNENGWV9vY3dFZGw2b0M3QTE2MTI5NzE1NTQwNDg%3D",
+            "timestamp": 1612971557865855,
+            "time_text": "1:14:46",
+            "author": {
+                "name": "sandeep madhusudan sahoo",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCvSdMjzMGXmMn2IJ2-wegFA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 4509.396,
+            "action_type": "add_chat_item",
+            "message": "and moj kardi",
+            "message_id": "CkUKGkNNUEV6TERUMy00Q0ZSRVhmUW9kUlNZTmtBEidDTzNDaF83UzMtNENGWV9vY3dFZGw2b0M3QTE2MTI5NzE1NzY3MjY%3D",
+            "timestamp": 1612971580269181,
+            "time_text": "1:15:09",
+            "author": {
+                "name": "sandeep madhusudan sahoo",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCvSdMjzMGXmMn2IJ2-wegFA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 4536.818,
+            "action_type": "add_chat_item",
+            "message": "you play good",
+            "message_id": "CkUKGkNPUHoyTDNUMy00Q0ZSRVhmUW9kUlNZTmtBEidDTzNDaF83UzMtNENGWV9vY3dFZGw2b0M3QTE2MTI5NzE2MDQxODE%3D",
+            "timestamp": 1612971607734789,
+            "time_text": "1:15:36",
+            "author": {
+                "name": "sandeep madhusudan sahoo",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCvSdMjzMGXmMn2IJ2-wegFA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 4542.299,
+            "action_type": "add_chat_item",
+            "message": "let's play again",
+            "message_id": "CkUKGkNNT2hwc0RUMy00Q0ZUOHNyUVlkb0tjS1lBEidDTzNDaF83UzMtNENGWV9vY3dFZGw2b0M3QTE2MTI5NzE2MDk2NDk%3D",
+            "timestamp": 1612971613196579,
+            "time_text": "1:15:42",
+            "author": {
+                "name": "sandeep madhusudan sahoo",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCvSdMjzMGXmMn2IJ2-wegFA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 4581.78,
+            "action_type": "add_chat_item",
+            "message": "I know I am not that great",
+            "message_id": "CkUKGkNOUGFsOVBUMy00Q0ZjOFFyUVlkVWI4RWJnEidDTzNDaF83UzMtNENGWV9vY3dFZGw2b0M3QTE2MTI5NzE2NDkyNzE%3D",
+            "timestamp": 1612971652803957,
+            "time_text": "1:16:21",
+            "author": {
+                "name": "sandeep madhusudan sahoo",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCvSdMjzMGXmMn2IJ2-wegFA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 4587.358,
+            "action_type": "add_chat_item",
+            "message": "but I can try atleast",
+            "message_id": "CkUKGkNPVGU4TlhUMy00Q0ZUOHNyUVlkb0tjS1lBEidDTzNDaF83UzMtNENGWV9vY3dFZGw2b0M3QTE2MTI5NzE2NTQ5MDQ%3D",
+            "timestamp": 1612971658456981,
+            "time_text": "1:16:27",
+            "author": {
+                "name": "sandeep madhusudan sahoo",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCvSdMjzMGXmMn2IJ2-wegFA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 4737.764,
+            "action_type": "add_chat_item",
+            "message": "your map design it's fascinating !",
+            "message_id": "CkUKGkNPeXJ5WjNVMy00Q0ZjOFFyUVlkVWI4RWJnEidDTFRTclpqVTMtNENGY3JYY3dFZDFFa0pYZzE2MTI5NzE4MDUyNjk%3D",
+            "timestamp": 1612971808806436,
+            "time_text": "1:18:57",
+            "author": {
+                "name": "sandeep madhusudan sahoo",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCvSdMjzMGXmMn2IJ2-wegFA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 4790.465,
+            "action_type": "add_chat_item",
+            "message": "ok thanksss",
+            "message_id": "CkUKGkNKYTh6cmJVMy00Q0ZWWV9yUVlkeVQ0UGNnEidDTFRTclpqVTMtNENGY3JYY3dFZDFFa0pYZzE2MTI5NzE4NTc3ODM%3D",
+            "timestamp": 1612971861319267,
+            "time_text": "1:19:50",
+            "author": {
+                "name": "sandeep madhusudan sahoo",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCvSdMjzMGXmMn2IJ2-wegFA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 4809.395,
+            "action_type": "add_chat_item",
+            "message": "you are a streamer , where's your bot? like they should be in the chats right?",
+            "message_id": "CkUKGkNKNjAwTF9VMy00Q0ZWd0JyUVlkd1VrTVdBEidDTFRTclpqVTMtNENGY3JYY3dFZDFFa0pYZzE2MTI5NzE4NzY2NTg%3D",
+            "timestamp": 1612971880225360,
+            "time_text": "1:20:09",
+            "author": {
+                "name": "sandeep madhusudan sahoo",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCvSdMjzMGXmMn2IJ2-wegFA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 4863.315,
+            "action_type": "add_chat_item",
+            "message": "ok cool. I m subscribing you :thumbs_up:",
+            "emotes": [
+                {
+                    "id": "\ud83d\udc4d",
+                    "name": ":thumbs_up:",
+                    "shortcuts": [
+                        ":thumbs_up:",
+                        ":+1:",
+                        ":thumbsup:",
+                        "(Y)",
+                        "(y)"
+                    ],
+                    "search_terms": [
+                        "thumbs",
+                        "up",
+                        "+1",
+                        "thumbsup"
+                    ],
+                    "images": [
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f44d.svg",
+                            "id": "source"
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u1f44d.svg"
+                        }
+                    ],
+                    "is_custom_emoji": false
+                }
+            ],
+            "message_id": "CkUKGkNKdUt0dG5VMy00Q0ZmSU1mUW9kRGRNRS1BEidDTFRTclpqVTMtNENGY3JYY3dFZDFFa0pYZzE2MTI5NzE5MzA3Nzk%3D",
+            "timestamp": 1612971934319938,
+            "time_text": "1:21:03",
+            "author": {
+                "name": "sandeep madhusudan sahoo",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-hhUdQ3is-v23hdcShS5-YfWocb8Zy8Fne_wqM7Q=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCvSdMjzMGXmMn2IJ2-wegFA"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 5998.615,
+            "action_type": "add_chat_item",
+            "message": "hi bro",
+            "message_id": "CkUKGkNLbUQ1UGJZMy00Q0ZmOHFyUVlkOHNvRWN3EidDSUNQOU9yWTMtNENGUjM3T0FZZFFlQU13dzE2MTI5NzMwNjc0NDk%3D",
+            "timestamp": 1612973069631956,
+            "time_text": "1:39:58",
+            "author": {
+                "name": "Sidram Yalgeti",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-uGObdl8VAmN1oZsu6hD3I5Jbf237bxq16BDM",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-uGObdl8VAmN1oZsu6hD3I5Jbf237bxq16BDM=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-uGObdl8VAmN1oZsu6hD3I5Jbf237bxq16BDM=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCemLKlNYQVciB8dqObXHvvw"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 6039.729,
+            "action_type": "add_chat_item",
+            "message": "aap kab se khel rhe ho",
+            "message_id": "CkUKGkNPaWVyNHJaMy00Q0ZSRVhmUW9kUlNZTmtBEidDSUNQOU9yWTMtNENGUjM3T0FZZFFlQU13dzE2MTI5NzMxMDgxMjQ%3D",
+            "timestamp": 1612973110710147,
+            "time_text": "1:40:39",
+            "author": {
+                "name": "Sidram Yalgeti",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-uGObdl8VAmN1oZsu6hD3I5Jbf237bxq16BDM",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-uGObdl8VAmN1oZsu6hD3I5Jbf237bxq16BDM=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-uGObdl8VAmN1oZsu6hD3I5Jbf237bxq16BDM=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCemLKlNYQVciB8dqObXHvvw"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 6123.473,
+            "action_type": "add_chat_item",
+            "message": "!commands",
+            "message_id": "CjkKGkNLZkZwYkxaMy00Q0ZWWV9yUVlkeVQ0UGNnEhtDTC1LcXF6RTMtNENGV1QwT0FZZHA2Z0VOUTA%3D",
+            "timestamp": 1612973194437379,
+            "time_text": "1:42:03",
+            "author": {
+                "name": "Suraj",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/_iLgg5EI3iVojMLHoQh4RH3kTzIYJlLXPLKMpJMBsvEphdEbPyJjNLS9ijpalxQBWa5qV6vT0bQ",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/_iLgg5EI3iVojMLHoQh4RH3kTzIYJlLXPLKMpJMBsvEphdEbPyJjNLS9ijpalxQBWa5qV6vT0bQ=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/_iLgg5EI3iVojMLHoQh4RH3kTzIYJlLXPLKMpJMBsvEphdEbPyJjNLS9ijpalxQBWa5qV6vT0bQ=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Owner",
+                        "icon_name": "owner"
+                    }
+                ],
+                "id": "UCbZZmB8L3IEHutGbvpWo9Ow"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 6128.463,
+            "action_type": "add_chat_item",
+            "message": "@AG, You can find a list of all Commands here https://StreamElements.com/se-6797338/commands",
+            "message_id": "ChwKGkNObTcyYlRaMy00Q0ZVckN3UW9kQlRFTTZB",
+            "timestamp": 1612973199482380,
+            "time_text": "1:42:08",
+            "author": {
+                "name": "StreamElements",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/x8sAVmPAwu6AZcosGKgh4JfEoSUwJ6cILYCtEbKMOpmuJxsoD0XS0V6nn7COTDUCm7fDq2Cr",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/x8sAVmPAwu6AZcosGKgh4JfEoSUwJ6cILYCtEbKMOpmuJxsoD0XS0V6nn7COTDUCm7fDq2Cr=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/x8sAVmPAwu6AZcosGKgh4JfEoSUwJ6cILYCtEbKMOpmuJxsoD0XS0V6nn7COTDUCm7fDq2Cr=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "badges": [
+                    {
+                        "title": "Verified",
+                        "icon_name": "verified"
+                    },
+                    {
+                        "title": "Moderator",
+                        "icon_name": "moderator"
+                    }
+                ],
+                "id": "UCjerlCIbLPQwSnYlClkjDXg"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 6437.615,
+            "action_type": "add_chat_item",
+            "message": "kya aap kal bhi stream kroge",
+            "message_id": "CkUKGkNLdnJqY2phMy00Q0ZWd0JyUVlkd1VrTVdBEidDSW1OaDdyYTMtNENGZElJdHdBZHpuSUlZUTE2MTI5NzM1MDY1MDA%3D",
+            "timestamp": 1612973508621782,
+            "time_text": "1:47:17",
+            "author": {
+                "name": "Sidram Yalgeti",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-uGObdl8VAmN1oZsu6hD3I5Jbf237bxq16BDM",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-uGObdl8VAmN1oZsu6hD3I5Jbf237bxq16BDM=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-uGObdl8VAmN1oZsu6hD3I5Jbf237bxq16BDM=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCemLKlNYQVciB8dqObXHvvw"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 6473.749,
+            "action_type": "add_chat_item",
+            "message": "mai kal aaunga meri mummy sone ke liye bula rhi hai",
+            "message_id": "CkUKGkNMeWVwOW5hMy00Q0ZhRUZmUW9kZ2k4SlJBEidDSW1OaDdyYTMtNENGZElJdHdBZHpuSUlZUTE2MTI5NzM1NDI4MTQ%3D",
+            "timestamp": 1612973544689503,
+            "time_text": "1:47:53",
+            "author": {
+                "name": "Sidram Yalgeti",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-uGObdl8VAmN1oZsu6hD3I5Jbf237bxq16BDM",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-uGObdl8VAmN1oZsu6hD3I5Jbf237bxq16BDM=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-uGObdl8VAmN1oZsu6hD3I5Jbf237bxq16BDM=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCemLKlNYQVciB8dqObXHvvw"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        },
+        {
+            "time_in_seconds": 6477.709,
+            "action_type": "add_chat_item",
+            "message": "byee",
+            "message_id": "CkUKGkNQWDZvTnZhMy00Q0ZTVUhyUVlkdmFzSjFnEidDSW1OaDdyYTMtNENGZElJdHdBZHpuSUlZUTE2MTI5NzM1NDY5OTc%3D",
+            "timestamp": 1612973548780967,
+            "time_text": "1:47:57",
+            "author": {
+                "name": "Sidram Yalgeti",
+                "images": [
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-uGObdl8VAmN1oZsu6hD3I5Jbf237bxq16BDM",
+                        "id": "source"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-uGObdl8VAmN1oZsu6hD3I5Jbf237bxq16BDM=s32-c-k-c0x00ffffff-no-rj",
+                        "width": 32,
+                        "height": 32,
+                        "id": "32x32"
+                    },
+                    {
+                        "url": "https://yt4.ggpht.com/ytc/AMLnZu-uGObdl8VAmN1oZsu6hD3I5Jbf237bxq16BDM=s64-c-k-c0x00ffffff-no-rj",
+                        "width": 64,
+                        "height": 64,
+                        "id": "64x64"
+                    }
+                ],
+                "id": "UCemLKlNYQVciB8dqObXHvvw"
+            },
+            "message_type": "text_message",
+            "vid": "p0BOyiE-br0"
+        }
+    ]
+}

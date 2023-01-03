@@ -4,13 +4,17 @@ import scrapetube
 from datetime import datetime
 from os import listdir, mkdir
 import json
-from sys import argv
+ 
+import argparse
+
+parser = argparse.ArgumentParser()
+
+parser.add_argument("-c", "--Channel", help = "Channel ID")
+args = parser.parse_args()
+if not args.Channel:    
+    channel_id = str(input("Enter Channel ID"))
 
 errorss = ''
-if not argv:
-    channel_id = str(input("Enter Channel ID"))
-channel_id = argv[1]
-print(channel_id)
 
 
 videos = scrapetube.get_channel(channel_id, content_type="streams")
@@ -39,8 +43,10 @@ with open(f"{channel_id}/titles.txt", "w+", encoding="utf-8") as f:
 total_chats = []
 for video in vids[::-1]:
     id = video['videoId']
-    print(f"processing a stream that was {video['publishedTimeText']['simpleText']}")
-    
+    try:
+        print(f"processing a stream that was {video['publishedTimeText']['simpleText']}")
+    except KeyError:
+        continue
     try:
         if 'watching' in video['viewCountText']['runs'][1]['text']:
             print("Skipping {id} cuz it's currently getting streamed")
