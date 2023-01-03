@@ -2,7 +2,7 @@
 A simple program that goes through all of previous streams and collect data. (publicly avaialbe data)
 
 Upon starting this will ask you for channel ID. 
-If you don't know how to get a channel ID. Considering how hard it have become. (https://stackoverflow.com/a/72724501/12084450)[This] should help.
+If you don't know how to get a channel ID. Considering how hard it have become. [This](https://stackoverflow.com/a/72724501/12084450) should help.
 
 Depends on how big your channel is. this can take some time. 
 
