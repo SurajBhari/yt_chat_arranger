@@ -1,9 +1,8 @@
-
 from flask import Flask, request
 from json import dump, dumps
+
 app = Flask(__name__)
 
-    
 
 @app.get("/")
 def testing():
@@ -15,5 +14,6 @@ def testing():
     print(request.headers["Nightbot-Channel"])
     print(type(request.headers))
     return "hello world suprise"
+
 
 app.run(port=5000, debug=True, host="0.0.0.0")
