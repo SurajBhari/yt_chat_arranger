@@ -1,4 +1,6 @@
 # yt_chat_arranger
+
+Archived because of newer better version [here](https://github.com/SurajBhari/yt_stats_api)
 A simple program that goes through all of previous streams and collect data. (publicly avaialbe data)
 
 Upon starting this will ask you for channel ID. 
